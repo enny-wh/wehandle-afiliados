@@ -26,8 +26,8 @@ jobs:
 
       - name: Buscar ranking da Sympla
         env:
-          SYMPLA_TOKEN: ${{ secrets.91d4b59b2fbea74686fdd2944cddb3f4a4379682ead338ed45a32f5637a9eeaf }}
-          SYMPLA_EVENT_ID: ${{ secrets.3449146 }}
+          SYMPLA_TOKEN: ${{ secrets.SYMPLA_TOKEN }}
+          SYMPLA_EVENT_ID: ${{ secrets.SYMPLA_EVENT_ID }}
         run: python fetch_ranking.py
 
       - name: Commit e push do ranking atualizado
