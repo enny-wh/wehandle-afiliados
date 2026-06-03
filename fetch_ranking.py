@@ -4,8 +4,8 @@ import requests
 from datetime import datetime, timezone
 from collections import defaultdict
 
-SYMPLA_TOKEN = os.environ["91d4b59b2fbea74686fdd2944cddb3f4a4379682ead338ed45a32f5637a9eeaf"]
-EVENT_ID = os.environ["3449146"]
+SYMPLA_TOKEN = os.environ["SYMPLA_TOKEN"]
+EVENT_ID = os.environ["SYMPLA_EVENT_ID"]
 
 BASE_URL = "https://api.sympla.com.br/public/v4"
 HEADERS = {"s_token": SYMPLA_TOKEN}
