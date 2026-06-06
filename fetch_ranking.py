@@ -178,22 +178,27 @@ def fetch_all_orders():
     return orders
 
 def build_ranking(orders):
+    # Contabiliza por quantidade de ingressos (tickets), não por pedido.
+    # Compras em grupo usam 1 cupom mas geram N ingressos — todos contam.
     coupon_stats = defaultdict(int)
     for order in orders:
         coupon = order.get("discount_name") or order.get("promo_code") or ""
         coupon = coupon.strip().upper()
-        if coupon in AFFILIATES:
-            coupon_stats[coupon] += 1
+        if coupon not in AFFILIATES:
+            continue
+        # quantity_total = total de ingressos neste pedido (1 para individual, N para grupo)
+        quantity = order.get("quantity_total") or order.get("qtd_tickets") or 1
+        coupon_stats[coupon] += int(quantity)
 
     ranking = []
-    for code, uses in coupon_stats.items():
-        ranking.append({"code": code, "name": AFFILIATES[code], "uses": uses})
+    for code, tickets in coupon_stats.items():
+        ranking.append({"code": code, "name": AFFILIATES[code], "tickets": tickets})
 
     for code, name in AFFILIATES.items():
         if code not in coupon_stats:
-            ranking.append({"code": code, "name": name, "uses": 0})
+            ranking.append({"code": code, "name": name, "tickets": 0})
 
-    ranking.sort(key=lambda x: x["uses"], reverse=True)
+    ranking.sort(key=lambda x: x["tickets"], reverse=True)
     for i, item in enumerate(ranking):
         item["position"] = i + 1
 
@@ -203,13 +208,16 @@ def main():
     print("Buscando pedidos da Sympla...")
     orders = fetch_all_orders()
     print(f"Total de pedidos: {len(orders)}")
+
     ranking = build_ranking(orders)
-    print(f"Afiliados no ranking: {len(ranking)}")
+    total_tickets = sum(r["tickets"] for r in ranking)
+    print(f"Total de ingressos via cupom de afiliado: {total_tickets}")
 
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "event_id": EVENT_ID,
         "total_orders": len(orders),
+        "total_tickets": total_tickets,
         "ranking": ranking
     }
 
@@ -219,7 +227,8 @@ def main():
 
     print("Arquivo data/ranking.json atualizado!")
     for item in ranking[:5]:
-        print(f"  #{item['position']} {item['name']} ({item['code']}): {item['uses']} usos")
+        if item["tickets"] > 0:
+            print(f"  #{item['position']} {item['name']} ({item['code']}): {item['tickets']} ingressos")
 
 if __name__ == "__main__":
     main()
