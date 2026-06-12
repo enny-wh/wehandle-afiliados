@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-06-12T00:15:45.069945+00:00",
-  "event_id": "3103284",
-  "total_orders": 175,
-  "total_tickets": 0,
-  "total_revenue": 0.0,
+  "updated_at": "2026-06-12T00:19:36.282857+00:00",
+  "event_id": "3449146",
+  "total_orders": 4,
+  "total_tickets": 2,
+  "total_revenue": 442.0,
   "ranking": [
-    {
-      "code": "ADRIANAGT360",
-      "name": "Adriana Chigueira",
-      "tickets": 0,
-      "revenue": 0.0,
-      "position": 1
-    },
     {
       "code": "ADRIANOGT360",
       "name": "Adriano Dutra",
+      "tickets": 2,
+      "revenue": 442.0,
+      "position": 1
+    },
+    {
+      "code": "ADRIANAGT360",
+      "name": "Adriana Chigueira",
       "tickets": 0,
       "revenue": 0.0,
       "position": 2
