@@ -1,9 +1,97 @@
 {
-  "updated_at": "2026-06-12T00:19:36.282857+00:00",
+  "updated_at": "2026-06-12T00:44:15.778101+00:00",
   "event_id": "3449146",
-  "total_orders": 4,
   "total_tickets": 2,
   "total_revenue": 442.0,
+  "summary": {
+    "orders": {
+      "total": 4,
+      "total_revenue": 1162.0,
+      "approved": 4,
+      "approved_revenue": 1162.0,
+      "pending": 0,
+      "pending_revenue": 0
+    },
+    "tickets_by_type": [
+      {
+        "name": "Ingresso padrão antecipado individual",
+        "count": 3,
+        "revenue": 702.0
+      },
+      {
+        "name": "Ingresso VIP antecipado individual",
+        "count": 1,
+        "revenue": 460.0
+      },
+      {
+        "name": "Staff",
+        "count": 1,
+        "revenue": 0.0
+      }
+    ],
+    "participants": [
+      {
+        "name": "Bernardo Lynch",
+        "email": "bernardo.lynch@nexaresources.com",
+        "cargo": "Gerência",
+        "empresa": "Nexa Resources",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 221.0,
+        "status": "Aprovado",
+        "order_id": "3989QB2EKJN"
+      },
+      {
+        "name": "Dilcea Brandao",
+        "email": "dilcea.brandao@telefonica.com",
+        "cargo": "Outro",
+        "empresa": "Telefonica",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 260.0,
+        "status": "Aprovado",
+        "order_id": "3989QB1QNML"
+      },
+      {
+        "name": "ERIK FERNANDO CARRAPATO",
+        "email": "erikcarrapato@cobrape.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Cobrape Cia. Brasileira de Projetos e Empreendimentos",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso VIP antecipado individual",
+        "ticket_price": 460.0,
+        "status": "Aprovado",
+        "order_id": "3989QB1Z69B"
+      },
+      {
+        "name": "Natalia Marques",
+        "email": "natalia.marques@nexaresources.com",
+        "cargo": "Analista",
+        "empresa": "Nexa Resources",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 221.0,
+        "status": "Aprovado",
+        "order_id": "3989QB2EKJN"
+      },
+      {
+        "name": "Yuri Enny",
+        "email": "yuri.enny@wehandle.com.br",
+        "cargo": "Gerência",
+        "empresa": "wehandle",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB110T8"
+      }
+    ]
+  },
   "ranking": [
     {
       "code": "ADRIANOGT360",
