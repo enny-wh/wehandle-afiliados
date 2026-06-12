@@ -161,12 +161,28 @@ AFFILIATES = {
     "YURIGT360": "Yuri Enny",
 }
 
+TOMADOR_VALUES   = {"contrata serviços terceirizados"}
+FORNECEDOR_VALUES = {"fornece serviços terceirizados", "fornece e subcontrata serviços terceirizados"}
+
+def cf(custom_form, field_name):
+    """Extrai valor de um campo do custom_form pelo nome."""
+    for f in (custom_form or []):
+        if f.get("name","").lower() == field_name.lower():
+            return f.get("value","")
+    return ""
+
+def classify_profile(natureza):
+    n = natureza.strip().lower()
+    if n in TOMADOR_VALUES:
+        return "Tomador"
+    if n in FORNECEDOR_VALUES:
+        return "Fornecedor"
+    return "Outro"
+
 def parse_coupon(raw):
-    """Extrai o código do cupom do formato '15.00% - ADRIANOGT360'."""
     if not raw:
         return ""
-    parts = raw.split(" - ", 1)
-    return parts[-1].strip().upper()
+    return raw.split(" - ", 1)[-1].strip().upper()
 
 def fetch_all_orders():
     orders = []
@@ -176,58 +192,98 @@ def fetch_all_orders():
         resp = requests.get(url, headers=HEADERS)
         resp.raise_for_status()
         data = resp.json()
-        batch = data.get("data", [])
-        orders.extend(batch)
-        pagination = data.get("pagination", {})
-        if not pagination.get("has_next", False):
+        orders.extend(data.get("data", []))
+        if not data.get("pagination", {}).get("has_next", False):
             break
         page += 1
     return orders
 
-def fetch_participants(order_id):
-    """Busca todos os participantes de um pedido — cada um é 1 ingresso."""
+def fetch_all_participants():
     participants = []
     page = 1
     while True:
-        url = f"{BASE_URL}/events/{EVENT_ID}/orders/{order_id}/participants?page={page}&page_size=100"
+        url = f"{BASE_URL}/events/{EVENT_ID}/participants?page={page}&page_size=100"
         resp = requests.get(url, headers=HEADERS)
-        if resp.status_code == 404:
-            break
         resp.raise_for_status()
         data = resp.json()
         participants.extend(data.get("data", []))
         if not data.get("pagination", {}).get("has_next", False):
             break
         page += 1
+        time.sleep(0.15)
     return participants
 
-def build_ranking(orders):
-    stats = defaultdict(lambda: {"tickets": 0, "revenue": 0.0})
+def build_summary(orders, participants):
+    # --- Resumo de pedidos ---
+    total_orders       = len(orders)
+    total_revenue      = sum(float(o.get("order_total_sale_price", 0)) for o in orders)
+    approved_orders    = [o for o in orders if o.get("order_status") == "A"]
+    pending_orders     = [o for o in orders if o.get("order_status") != "A"]
+    approved_revenue   = sum(float(o.get("order_total_sale_price", 0)) for o in approved_orders)
+    pending_revenue    = sum(float(o.get("order_total_sale_price", 0)) for o in pending_orders)
 
+    # --- Pedidos por tipo de ingresso (via participantes) ---
+    ticket_types = defaultdict(lambda: {"count": 0, "revenue": 0.0})
+    for p in participants:
+        tname = p.get("ticket_name", "Outro")
+        ticket_types[tname]["count"]   += 1
+        ticket_types[tname]["revenue"] += float(p.get("ticket_sale_price", 0))
+
+    tickets_by_type = [
+        {"name": k, "count": v["count"], "revenue": round(v["revenue"], 2)}
+        for k, v in sorted(ticket_types.items(), key=lambda x: -x[1]["count"])
+    ]
+
+    # --- Lista de participantes ---
+    participant_list = []
+    for p in participants:
+        cf_data    = p.get("custom_form", [])
+        natureza   = cf(cf_data, "Natureza da empresa")
+        participant_list.append({
+            "name":        f"{p.get('first_name','')} {p.get('last_name','')}".strip(),
+            "email":       p.get("email",""),
+            "cargo":       cf(cf_data, "Cargo"),
+            "empresa":     cf(cf_data, "Empresa"),
+            "natureza":    natureza,
+            "perfil":      classify_profile(natureza),
+            "ticket_name": p.get("ticket_name",""),
+            "ticket_price":float(p.get("ticket_sale_price", 0)),
+            "status":      "Aprovado" if p.get("order_status") == "A" else "Pendente",
+            "order_id":    p.get("order_id",""),
+        })
+
+    return {
+        "orders": {
+            "total":            total_orders,
+            "total_revenue":    round(total_revenue, 2),
+            "approved":         len(approved_orders),
+            "approved_revenue": round(approved_revenue, 2),
+            "pending":          len(pending_orders),
+            "pending_revenue":  round(pending_revenue, 2),
+        },
+        "tickets_by_type": tickets_by_type,
+        "participants":    participant_list,
+    }
+
+def build_ranking(orders, participants):
+    # Agrupa participantes por order_id para contagem eficiente
+    parts_by_order = defaultdict(list)
+    for p in participants:
+        parts_by_order[p.get("order_id","")].append(p)
+
+    stats = defaultdict(lambda: {"tickets": 0, "revenue": 0.0})
     for order in orders:
-        coupon = parse_coupon(order.get("discount_code", ""))
+        coupon = parse_coupon(order.get("discount_code",""))
         if coupon not in AFFILIATES:
             continue
-
-        order_id = order["id"]
-        print(f"  Buscando participantes do pedido {order_id} (cupom: {coupon})...")
-        participants = fetch_participants(order_id)
-        time.sleep(0.2)  # respeita rate limit da API
-
-        for p in participants:
+        for p in parts_by_order[order["id"]]:
             stats[coupon]["tickets"] += 1
             stats[coupon]["revenue"] += float(p.get("ticket_sale_price", 0))
 
     ranking = []
     for code, s in stats.items():
-        ranking.append({
-            "code":    code,
-            "name":    AFFILIATES[code],
-            "tickets": s["tickets"],
-            "revenue": round(s["revenue"], 2),
-        })
-
-    # inclui afiliados sem vendas
+        ranking.append({"code": code, "name": AFFILIATES[code],
+                        "tickets": s["tickets"], "revenue": round(s["revenue"], 2)})
     for code, name in AFFILIATES.items():
         if code not in stats:
             ranking.append({"code": code, "name": name, "tickets": 0, "revenue": 0.0})
@@ -235,7 +291,6 @@ def build_ranking(orders):
     ranking.sort(key=lambda x: x["tickets"], reverse=True)
     for i, item in enumerate(ranking):
         item["position"] = i + 1
-
     return ranking
 
 def main():
@@ -243,31 +298,33 @@ def main():
     orders = fetch_all_orders()
     print(f"Total de pedidos: {len(orders)}")
 
-    orders_with_coupon = [o for o in orders if parse_coupon(o.get("discount_code","")) in AFFILIATES]
-    print(f"Pedidos com cupom de afiliado: {len(orders_with_coupon)}")
+    print("Buscando participantes...")
+    participants = fetch_all_participants()
+    print(f"Total de participantes: {len(participants)}")
 
-    ranking = build_ranking(orders)
+    summary = build_summary(orders, participants)
+    ranking = build_ranking(orders, participants)
 
     total_tickets = sum(r["tickets"] for r in ranking)
     total_revenue = round(sum(r["revenue"] for r in ranking), 2)
 
     output = {
-        "updated_at":     datetime.now(timezone.utc).isoformat(),
-        "event_id":       EVENT_ID,
-        "total_orders":   len(orders),
-        "total_tickets":  total_tickets,
-        "total_revenue":  total_revenue,
-        "ranking":        ranking,
+        "updated_at":    datetime.now(timezone.utc).isoformat(),
+        "event_id":      EVENT_ID,
+        "total_tickets": total_tickets,
+        "total_revenue": total_revenue,
+        "summary":       summary,
+        "ranking":       ranking,
     }
 
     os.makedirs("data", exist_ok=True)
     with open("data/ranking.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\nRanking atualizado! {total_tickets} ingressos · R$ {total_revenue:,.2f} em vendas via afiliados")
-    for item in ranking[:5]:
+    print(f"\nAtualizado! {len(participants)} participantes · {total_tickets} via afiliado · R$ {total_revenue:,.2f}")
+    for item in ranking[:3]:
         if item["tickets"] > 0:
-            print(f"  #{item['position']} {item['name']} ({item['code']}): {item['tickets']} ingressos · R$ {item['revenue']:,.2f}")
+            print(f"  #{item['position']} {item['name']}: {item['tickets']} ingressos · R$ {item['revenue']:,.2f}")
 
 if __name__ == "__main__":
     main()
