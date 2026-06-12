@@ -1,0 +1,1038 @@
+{
+  "updated_at": "2026-06-12T00:15:45.069945+00:00",
+  "event_id": "3103284",
+  "total_orders": 175,
+  "total_tickets": 0,
+  "total_revenue": 0.0,
+  "ranking": [
+    {
+      "code": "ADRIANAGT360",
+      "name": "Adriana Chigueira",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 1
+    },
+    {
+      "code": "ADRIANOGT360",
+      "name": "Adriano Dutra",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 2
+    },
+    {
+      "code": "AFONSOGT360",
+      "name": "Afonso Brunelli Ferragut",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 3
+    },
+    {
+      "code": "ALISSSONGT360",
+      "name": "Alisson Vasconcelos Dos Santos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 4
+    },
+    {
+      "code": "ANAGT360",
+      "name": "Ana Paula Simões Pessoa",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 5
+    },
+    {
+      "code": "ANDREIAGT360",
+      "name": "Andreia Alves De Andrade",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 6
+    },
+    {
+      "code": "ANDRESSAGT360",
+      "name": "Andressa Nozue",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 7
+    },
+    {
+      "code": "ANNAGT360",
+      "name": "Anna Elisa Sarti",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 8
+    },
+    {
+      "code": "ANTONIOGT360",
+      "name": "Antonio Messias Ferreira Da Silva",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 9
+    },
+    {
+      "code": "ARTHURGT360",
+      "name": "Arthur Avila Tobias",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 10
+    },
+    {
+      "code": "AUGUSTOGT360",
+      "name": "Augusto Macedo",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 11
+    },
+    {
+      "code": "BEATRIZGT360",
+      "name": "Beatriz De Almeida Estevam Silva",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 12
+    },
+    {
+      "code": "BRENDAGT360",
+      "name": "Brenda Ione Zeferino Macedo",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 13
+    },
+    {
+      "code": "BRUNAGT360",
+      "name": "Bruna Stefany Da Silva Dos Santos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 14
+    },
+    {
+      "code": "BRUNOGT360",
+      "name": "Bruno Lopes Melo Fonseca",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 15
+    },
+    {
+      "code": "CAIOEGT360",
+      "name": "Caio Etsuo Sagae",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 16
+    },
+    {
+      "code": "CAIORGT360",
+      "name": "Caio Ribeiro Mello",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 17
+    },
+    {
+      "code": "CAIOVGT360",
+      "name": "Caio Vasconcelos Araujo Figueiredo",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 18
+    },
+    {
+      "code": "CAMILAGT360",
+      "name": "Camila Raphaela Peres Mancio",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 19
+    },
+    {
+      "code": "CAMILLAGT360",
+      "name": "Camilla Leite",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 20
+    },
+    {
+      "code": "CARLALGT360",
+      "name": "Carla Luisa Tognoli Ruy Mancinelli",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 21
+    },
+    {
+      "code": "CARLASGT360",
+      "name": "Carla Stefany Santos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 22
+    },
+    {
+      "code": "CAROLINEGT360",
+      "name": "Caroline Souza Yoneda",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 23
+    },
+    {
+      "code": "CAROLYNEGT360",
+      "name": "Carolyne Pesth Colcheski Ramos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 24
+    },
+    {
+      "code": "CASSIAGT360",
+      "name": "Cassia Patricia Dos Santos Brasileiro",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 25
+    },
+    {
+      "code": "DANIELGT360",
+      "name": "Daniel Dos Reis Rodrigues",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 26
+    },
+    {
+      "code": "DANILOGT360",
+      "name": "Danilo Pereira De Souza",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 27
+    },
+    {
+      "code": "DEBORAGT360",
+      "name": "Debora Cristina Tagliarini",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 28
+    },
+    {
+      "code": "DEYVIDGT360",
+      "name": "Deyvid Kenedy Santos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 29
+    },
+    {
+      "code": "DIOGOGT360",
+      "name": "Diogo Afonso Chaves",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 30
+    },
+    {
+      "code": "MATHEOGT360",
+      "name": "Matheo Lima",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 31
+    },
+    {
+      "code": "DOMINYКEGT360",
+      "name": "Dominyke Swriel Goncalves Cipriano",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 32
+    },
+    {
+      "code": "EDGARGT360",
+      "name": "Edgar Berg",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 33
+    },
+    {
+      "code": "EDILAINEGT360",
+      "name": "Edilaine Dos Santos Silva",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 34
+    },
+    {
+      "code": "EDUARDAGT360",
+      "name": "Eduarda Santos De Castro",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 35
+    },
+    {
+      "code": "ELENICEGT360",
+      "name": "Elenice De Fatima Pereira",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 36
+    },
+    {
+      "code": "EMERSONGT360",
+      "name": "Emerson Dos Santos Couto",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 37
+    },
+    {
+      "code": "ERICAGT360",
+      "name": "Erica De Oliveira Goncalves Bueno",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 38
+    },
+    {
+      "code": "ERICKGT360",
+      "name": "Erick Goncalves Cabral",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 39
+    },
+    {
+      "code": "EZEQUIELGT360",
+      "name": "Ezequiel Saides Silva",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 40
+    },
+    {
+      "code": "FABIOGT360",
+      "name": "Fabio Yukio Yokota",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 41
+    },
+    {
+      "code": "FELIPEGT360",
+      "name": "Felipe Dos Santos Freire",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 42
+    },
+    {
+      "code": "FERNANDAGT360",
+      "name": "Fernanda Faustini Brossi",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 43
+    },
+    {
+      "code": "FERNANDOGT360",
+      "name": "Fernando Iwano",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 44
+    },
+    {
+      "code": "FILIPEGT360",
+      "name": "Filipe Costa",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 45
+    },
+    {
+      "code": "FLAVIAGT360",
+      "name": "Flavia Goncalves Martins Alves",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 46
+    },
+    {
+      "code": "GABRIELDIGGT360",
+      "name": "Gabriel Dias Cardoso Poleselli De Souza",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 47
+    },
+    {
+      "code": "GABRIELSCGT360",
+      "name": "Gabriel Schroder De Paula",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 48
+    },
+    {
+      "code": "GABRIELSIGT360",
+      "name": "Gabriel Silveira",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 49
+    },
+    {
+      "code": "GENAINAGT360",
+      "name": "Genaina Patricia Lopes",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 50
+    },
+    {
+      "code": "GESSICAGT360",
+      "name": "Gessica Mendes Diniz",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 51
+    },
+    {
+      "code": "GILSONGT360",
+      "name": "Gilson Souza",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 52
+    },
+    {
+      "code": "GUILHERMERGT360",
+      "name": "Guilherme Rohrer Gaudencio",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 53
+    },
+    {
+      "code": "GUILHERMETGT360",
+      "name": "Guilherme Tadeu De Oliveira",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 54
+    },
+    {
+      "code": "GUSTAVOOGT360",
+      "name": "Gustavo De Oliveira Martins",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 55
+    },
+    {
+      "code": "GUSTAVOGGT360",
+      "name": "Gustavo Garcia Martin",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 56
+    },
+    {
+      "code": "HUGOGT360",
+      "name": "Hugo Penna",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 57
+    },
+    {
+      "code": "IASMINGT360",
+      "name": "Iasmin Ketelin Moll Carneiro",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 58
+    },
+    {
+      "code": "IGORGT360",
+      "name": "Igor Sales",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 59
+    },
+    {
+      "code": "IONITAGT360",
+      "name": "Ionita Correa Do Nascimento Soares De Amorim",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 60
+    },
+    {
+      "code": "ISABELLAGT360",
+      "name": "Isabella Victoria Moreira De Souza Neves",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 61
+    },
+    {
+      "code": "ISAQUIELGT360",
+      "name": "Isaquiel Rosendo De Oliveira Junior",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 62
+    },
+    {
+      "code": "JANAINAGT360",
+      "name": "Janaina Da Costa Barros Lima",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 63
+    },
+    {
+      "code": "JOSEGGT360",
+      "name": "Jose Gleyson Isidoro Alves Da Silva",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 64
+    },
+    {
+      "code": "JOSEHGT360",
+      "name": "Jose Hilton De Luna Junior",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 65
+    },
+    {
+      "code": "JULIACGT360",
+      "name": "Julia Caldeira De Oliveira Tezani",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 66
+    },
+    {
+      "code": "JULIAOGT360",
+      "name": "Julia Oliveira",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 67
+    },
+    {
+      "code": "JULIANASILGT360",
+      "name": "Juliana Da Silveira Oliveira",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 68
+    },
+    {
+      "code": "JULIANALOPGT360",
+      "name": "Juliana Lopes Parente",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 69
+    },
+    {
+      "code": "JULIANASIMGT360",
+      "name": "Juliana Simoes",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 70
+    },
+    {
+      "code": "JULIOGT360",
+      "name": "Julio Manarin Bettini Rodrigues",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 71
+    },
+    {
+      "code": "KARLAGT360",
+      "name": "Karla Silva Lobo",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 72
+    },
+    {
+      "code": "KAUANGT360",
+      "name": "Kauan Felipe Araujo Dos Santos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 73
+    },
+    {
+      "code": "KAUANEGT360",
+      "name": "Kauane Caroline Lichtenfelz",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 74
+    },
+    {
+      "code": "KELVINGT360",
+      "name": "Kelvin Luciano Cangucu Martins",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 75
+    },
+    {
+      "code": "KEVENGT360",
+      "name": "Keven Lucas Da Silva Jesus",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 76
+    },
+    {
+      "code": "LAISGT360",
+      "name": "Lais Alvarenga Oliveira",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 77
+    },
+    {
+      "code": "LARAGT360",
+      "name": "Lara De Lima Esteves",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 78
+    },
+    {
+      "code": "LARESSAGT360",
+      "name": "Laressa Pereira Lessa Reis",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 79
+    },
+    {
+      "code": "LARISSABGT360",
+      "name": "Larissa Baldin Dos Santos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 80
+    },
+    {
+      "code": "LARISSARGT360",
+      "name": "Larissa Ribeiro Martins",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 81
+    },
+    {
+      "code": "LAVINIAGT360",
+      "name": "Lavinia Pereira Soares",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 82
+    },
+    {
+      "code": "LEILAGT360",
+      "name": "Leila Cristina De Proenca Dias",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 83
+    },
+    {
+      "code": "LEONARDOGT360",
+      "name": "Leonardo Antonio Pinheiro",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 84
+    },
+    {
+      "code": "LETICIAGT360",
+      "name": "Leticia Nunes Camillo",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 85
+    },
+    {
+      "code": "LEVYGT360",
+      "name": "Levy Cruz",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 86
+    },
+    {
+      "code": "LOHAINEGT360",
+      "name": "Lohaine Taise De Moraes",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 87
+    },
+    {
+      "code": "LUANCGT360",
+      "name": "Luan Caio Silva Miranda",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 88
+    },
+    {
+      "code": "LUANVGT360",
+      "name": "Luan Vasconcelos Araujo Figueiredo",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 89
+    },
+    {
+      "code": "LUCASAGT360",
+      "name": "Lucas Alves Carvalho",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 90
+    },
+    {
+      "code": "LUCASOGT360",
+      "name": "Lucas Orsolini",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 91
+    },
+    {
+      "code": "LUIGIGT360",
+      "name": "Luigi Galderisi",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 92
+    },
+    {
+      "code": "MARCELAGT360",
+      "name": "Marcela Barbara Candian Silva",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 93
+    },
+    {
+      "code": "MARCELOGT360",
+      "name": "Marcelo Mendes",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 94
+    },
+    {
+      "code": "MARCIOGT360",
+      "name": "Marcio Dantas",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 95
+    },
+    {
+      "code": "MARCOSGT360",
+      "name": "Marcos De Jesus Pereira",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 96
+    },
+    {
+      "code": "MARCUSGT360",
+      "name": "Marcus Vinicius Capelato Dos Santos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 97
+    },
+    {
+      "code": "MARIAGT360",
+      "name": "Maria Eduarda Dias Diniz Malheiros",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 98
+    },
+    {
+      "code": "MARIANACGT360",
+      "name": "Mariana Croce Campos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 99
+    },
+    {
+      "code": "MARIANAEGT360",
+      "name": "Mariana Elisa De Souza Nascimento",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 100
+    },
+    {
+      "code": "MARIANAPGT360",
+      "name": "Mariana Pinheiro Melo",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 101
+    },
+    {
+      "code": "MARINARAGT360",
+      "name": "Marinara Goes Da Silva",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 102
+    },
+    {
+      "code": "MARYANAGT360",
+      "name": "Maryana Alves",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 103
+    },
+    {
+      "code": "MATHEUSGT360",
+      "name": "Matheus Gabriel Sa De Souza",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 104
+    },
+    {
+      "code": "MAYARAFGT360",
+      "name": "Mayara Ferreira Chaves",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 105
+    },
+    {
+      "code": "MAYARASGT360",
+      "name": "Mayara Spangara Romero",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 106
+    },
+    {
+      "code": "MERIELLYGT360",
+      "name": "Merielly Pereira Alves",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 107
+    },
+    {
+      "code": "MICHAELAGT360",
+      "name": "Michael Alessandro De Souza",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 108
+    },
+    {
+      "code": "MICHAELBGT360",
+      "name": "Michael De Barros Borges",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 109
+    },
+    {
+      "code": "NATALIACGT360",
+      "name": "Natalia Cristina De Castro",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 110
+    },
+    {
+      "code": "NATALIAGGT360",
+      "name": "Natalia Gomes Diotto",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 111
+    },
+    {
+      "code": "NATHALIAGT360",
+      "name": "Nathalia Barros Leal Costa Dos Santos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 112
+    },
+    {
+      "code": "NICOLASGT360",
+      "name": "Nicolas Matheus Guimaraes Reis",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 113
+    },
+    {
+      "code": "PATRICIAMGT360",
+      "name": "Patricia Miranda Neves",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 114
+    },
+    {
+      "code": "PATRICIARGT360",
+      "name": "Patricia Ribeiro De Souza Nania",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 115
+    },
+    {
+      "code": "PAULOGT360",
+      "name": "Paulo Vitor Santos Souza",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 116
+    },
+    {
+      "code": "PEDROCGT360",
+      "name": "Pedro Cunha Canto Marques",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 117
+    },
+    {
+      "code": "PEDROLGT360",
+      "name": "Pedro Luis Capelato Santos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 118
+    },
+    {
+      "code": "RAFAELGT360",
+      "name": "Rafael Reis",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 119
+    },
+    {
+      "code": "RAFAELACGT360",
+      "name": "Rafaela Cezarino",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 120
+    },
+    {
+      "code": "RAFAELAPGT360",
+      "name": "Rafaela Papale",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 121
+    },
+    {
+      "code": "RAULGT360",
+      "name": "Raul Vieira Tamburo",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 122
+    },
+    {
+      "code": "RAYANEGT360",
+      "name": "Rayane Jordan Da Silva Monteiro",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 123
+    },
+    {
+      "code": "REGINAGT360",
+      "name": "Regina Suzarte Dos Santos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 124
+    },
+    {
+      "code": "RIANGT360",
+      "name": "Rian Alves Xavier",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 125
+    },
+    {
+      "code": "RICARDOLGT360",
+      "name": "Ricardo Luis Bueno Junior",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 126
+    },
+    {
+      "code": "RICARDORGT360",
+      "name": "Ricardo Rezende",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 127
+    },
+    {
+      "code": "RODRIGOGT360",
+      "name": "Rodrigo Faustini Vieira",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 128
+    },
+    {
+      "code": "ROMEIKAGT360",
+      "name": "Romeika Maria Alves De Melo Silva",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 129
+    },
+    {
+      "code": "ROSSANAGT360",
+      "name": "Rossana Pikussa",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 130
+    },
+    {
+      "code": "SAYURIGT360",
+      "name": "Sayuri Pimentel De Queiroz",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 131
+    },
+    {
+      "code": "STEFFANYGT360",
+      "name": "Steffany Lopes De Oliveira",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 132
+    },
+    {
+      "code": "STEPHANYGT360",
+      "name": "Stephany Bianca Manfredo",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 133
+    },
+    {
+      "code": "SUELENGT360",
+      "name": "Suelen Araujo Vieira",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 134
+    },
+    {
+      "code": "TAMIRISGT360",
+      "name": "Tamiris Dias",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 135
+    },
+    {
+      "code": "THAISCHGT360",
+      "name": "Thais Chaves Costa",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 136
+    },
+    {
+      "code": "THAISCRGT360",
+      "name": "Thais Cristine Manoel Santos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 137
+    },
+    {
+      "code": "THIAGOGT360",
+      "name": "Thiago Kiyoki Hanashiro",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 138
+    },
+    {
+      "code": "TIAGOGT360",
+      "name": "Tiago Henrique Marson",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 139
+    },
+    {
+      "code": "VINICIUSGT360",
+      "name": "Vinicius Rafael Cunha",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 140
+    },
+    {
+      "code": "VITOREGT360",
+      "name": "Vitor Emanuel Clementino Ramos Cardoso",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 141
+    },
+    {
+      "code": "VITORMGT360",
+      "name": "Vitor Martins Oliveira",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 142
+    },
+    {
+      "code": "VITORIAGT360",
+      "name": "Vitoria De Lima Santos",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 143
+    },
+    {
+      "code": "WELLINGTONGT360",
+      "name": "Wellington Marques",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 144
+    },
+    {
+      "code": "WILLIANGT360",
+      "name": "Willian Do Carmo De Franca",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 145
+    },
+    {
+      "code": "YUKARIGT360",
+      "name": "Yukari Fukakusa",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 146
+    },
+    {
+      "code": "YURIGT360",
+      "name": "Yuri Enny",
+      "tickets": 0,
+      "revenue": 0.0,
+      "position": 147
+    }
+  ]
+}
