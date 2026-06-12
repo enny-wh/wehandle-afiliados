@@ -1,14 +1,15 @@
 import os
 import json
 import requests
+import time
 from datetime import datetime, timezone
 from collections import defaultdict
 
 SYMPLA_TOKEN = os.environ["SYMPLA_TOKEN"]
-EVENT_ID = os.environ["SYMPLA_EVENT_ID"]
+EVENT_ID     = os.environ["SYMPLA_EVENT_ID"]
 
-BASE_URL = "https://api.sympla.com.br/public/v4"
-HEADERS = {"s_token": SYMPLA_TOKEN}
+BASE_URL = "https://api.sympla.com.br/public/v3"
+HEADERS  = {"s_token": SYMPLA_TOKEN}
 
 AFFILIATES = {
     "ADRIANAGT360": "Adriana Chigueira",
@@ -160,43 +161,76 @@ AFFILIATES = {
     "YURIGT360": "Yuri Enny",
 }
 
+def parse_coupon(raw):
+    """Extrai o código do cupom do formato '15.00% - ADRIANOGT360'."""
+    if not raw:
+        return ""
+    parts = raw.split(" - ", 1)
+    return parts[-1].strip().upper()
+
 def fetch_all_orders():
     orders = []
     page = 1
-    page_size = 100
     while True:
-        url = f"{BASE_URL}/events/{EVENT_ID}/orders?page={page}&page_size={page_size}"
+        url = f"{BASE_URL}/events/{EVENT_ID}/orders?page={page}&page_size=100"
         resp = requests.get(url, headers=HEADERS)
         resp.raise_for_status()
         data = resp.json()
         batch = data.get("data", [])
         orders.extend(batch)
         pagination = data.get("pagination", {})
-        if page >= pagination.get("total_page", 1):
+        if not pagination.get("has_next", False):
             break
         page += 1
     return orders
 
+def fetch_participants(order_id):
+    """Busca todos os participantes de um pedido — cada um é 1 ingresso."""
+    participants = []
+    page = 1
+    while True:
+        url = f"{BASE_URL}/events/{EVENT_ID}/orders/{order_id}/participants?page={page}&page_size=100"
+        resp = requests.get(url, headers=HEADERS)
+        if resp.status_code == 404:
+            break
+        resp.raise_for_status()
+        data = resp.json()
+        participants.extend(data.get("data", []))
+        if not data.get("pagination", {}).get("has_next", False):
+            break
+        page += 1
+    return participants
+
 def build_ranking(orders):
-    # Contabiliza por quantidade de ingressos (tickets), não por pedido.
-    # Compras em grupo usam 1 cupom mas geram N ingressos — todos contam.
-    coupon_stats = defaultdict(int)
+    stats = defaultdict(lambda: {"tickets": 0, "revenue": 0.0})
+
     for order in orders:
-        coupon = order.get("discount_name") or order.get("promo_code") or ""
-        coupon = coupon.strip().upper()
+        coupon = parse_coupon(order.get("discount_code", ""))
         if coupon not in AFFILIATES:
             continue
-        # quantity_total = total de ingressos neste pedido (1 para individual, N para grupo)
-        quantity = order.get("quantity_total") or order.get("qtd_tickets") or 1
-        coupon_stats[coupon] += int(quantity)
+
+        order_id = order["id"]
+        print(f"  Buscando participantes do pedido {order_id} (cupom: {coupon})...")
+        participants = fetch_participants(order_id)
+        time.sleep(0.2)  # respeita rate limit da API
+
+        for p in participants:
+            stats[coupon]["tickets"] += 1
+            stats[coupon]["revenue"] += float(p.get("ticket_sale_price", 0))
 
     ranking = []
-    for code, tickets in coupon_stats.items():
-        ranking.append({"code": code, "name": AFFILIATES[code], "tickets": tickets})
+    for code, s in stats.items():
+        ranking.append({
+            "code":    code,
+            "name":    AFFILIATES[code],
+            "tickets": s["tickets"],
+            "revenue": round(s["revenue"], 2),
+        })
 
+    # inclui afiliados sem vendas
     for code, name in AFFILIATES.items():
-        if code not in coupon_stats:
-            ranking.append({"code": code, "name": name, "tickets": 0})
+        if code not in stats:
+            ranking.append({"code": code, "name": name, "tickets": 0, "revenue": 0.0})
 
     ranking.sort(key=lambda x: x["tickets"], reverse=True)
     for i, item in enumerate(ranking):
@@ -205,30 +239,35 @@ def build_ranking(orders):
     return ranking
 
 def main():
-    print("Buscando pedidos da Sympla...")
+    print("Buscando pedidos da Sympla (v3)...")
     orders = fetch_all_orders()
     print(f"Total de pedidos: {len(orders)}")
 
+    orders_with_coupon = [o for o in orders if parse_coupon(o.get("discount_code","")) in AFFILIATES]
+    print(f"Pedidos com cupom de afiliado: {len(orders_with_coupon)}")
+
     ranking = build_ranking(orders)
+
     total_tickets = sum(r["tickets"] for r in ranking)
-    print(f"Total de ingressos via cupom de afiliado: {total_tickets}")
+    total_revenue = round(sum(r["revenue"] for r in ranking), 2)
 
     output = {
-        "updated_at": datetime.now(timezone.utc).isoformat(),
-        "event_id": EVENT_ID,
-        "total_orders": len(orders),
-        "total_tickets": total_tickets,
-        "ranking": ranking
+        "updated_at":     datetime.now(timezone.utc).isoformat(),
+        "event_id":       EVENT_ID,
+        "total_orders":   len(orders),
+        "total_tickets":  total_tickets,
+        "total_revenue":  total_revenue,
+        "ranking":        ranking,
     }
 
     os.makedirs("data", exist_ok=True)
     with open("data/ranking.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print("Arquivo data/ranking.json atualizado!")
+    print(f"\nRanking atualizado! {total_tickets} ingressos · R$ {total_revenue:,.2f} em vendas via afiliados")
     for item in ranking[:5]:
         if item["tickets"] > 0:
-            print(f"  #{item['position']} {item['name']} ({item['code']}): {item['tickets']} ingressos")
+            print(f"  #{item['position']} {item['name']} ({item['code']}): {item['tickets']} ingressos · R$ {item['revenue']:,.2f}")
 
 if __name__ == "__main__":
     main()
