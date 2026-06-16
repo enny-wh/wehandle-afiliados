@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-06-15T16:13:35.266271+00:00",
+  "updated_at": "2026-06-16T15:49:38.625105+00:00",
   "event_id": "3449146",
   "total_tickets": 2,
   "total_revenue": 442.0,
   "summary": {
     "orders": {
-      "total": 4,
-      "total_revenue": 1162.0,
-      "approved": 4,
-      "approved_revenue": 1162.0,
+      "total": 6,
+      "total_revenue": 1652.0,
+      "approved": 6,
+      "approved_revenue": 1652.0,
       "pending": 0,
       "pending_revenue": 0
     },
     "tickets_by_type": [
       {
         "name": "Ingresso padrão antecipado individual",
-        "count": 3,
-        "revenue": 702.0
+        "count": 5,
+        "revenue": 962.0
       },
       {
         "name": "Ingresso VIP antecipado individual",
-        "count": 1,
-        "revenue": 460.0
+        "count": 2,
+        "revenue": 690.0
       },
       {
         "name": "Staff",
@@ -55,6 +55,18 @@
         "order_id": "3989QB1QNML"
       },
       {
+        "name": "DIOGO QUARESMA RODRIGUEZ",
+        "email": "diogo@dqr3consultoria.com",
+        "cargo": "Proprietário(a)",
+        "empresa": "DQR3 Consultoria",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso VIP antecipado individual",
+        "ticket_price": 230.0,
+        "status": "Aprovado",
+        "order_id": "3989QB342SJ"
+      },
+      {
         "name": "ERIK FERNANDO CARRAPATO",
         "email": "erikcarrapato@cobrape.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -77,6 +89,30 @@
         "ticket_price": 221.0,
         "status": "Aprovado",
         "order_id": "3989QB2EKJN"
+      },
+      {
+        "name": "REGINA GONÇALES",
+        "email": "eduardo@acaocorporate.com.br",
+        "cargo": "Diretoria",
+        "empresa": "AÇÃO CORPORATE",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 130.0,
+        "status": "Aprovado",
+        "order_id": "3989QB343NC"
+      },
+      {
+        "name": "RODRIGO LOPEZ",
+        "email": "eduardo@acaocorporate.com.br",
+        "cargo": "Proprietário(a)",
+        "empresa": "AÇÃO CORPORATE",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 130.0,
+        "status": "Aprovado",
+        "order_id": "3989QB343NC"
       },
       {
         "name": "Yuri Enny",
