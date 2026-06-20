@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-19T13:58:45.602823+00:00",
+  "updated_at": "2026-06-20T12:24:23.863264+00:00",
   "event_id": "3449146",
   "total_tickets": 2,
   "total_revenue": 442.0,
   "summary": {
     "orders": {
-      "total": 6,
-      "total_revenue": 1652.0,
-      "approved": 6,
-      "approved_revenue": 1652.0,
+      "total": 7,
+      "total_revenue": 2112.0,
+      "approved": 7,
+      "approved_revenue": 2112.0,
       "pending": 0,
       "pending_revenue": 0
     },
@@ -20,8 +20,8 @@
       },
       {
         "name": "Ingresso VIP antecipado individual",
-        "count": 2,
-        "revenue": 690.0
+        "count": 4,
+        "revenue": 1150.0
       },
       {
         "name": "Staff",
@@ -30,6 +30,18 @@
       }
     ],
     "participants": [
+      {
+        "name": "Arthur Werner",
+        "email": "arthur.werner@lomarco.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Lomarco Engenharia",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso VIP antecipado individual",
+        "ticket_price": 230.0,
+        "status": "Aprovado",
+        "order_id": "3989QB3NT00"
+      },
       {
         "name": "Bernardo Lynch",
         "email": "bernardo.lynch@nexaresources.com",
@@ -77,6 +89,18 @@
         "ticket_price": 460.0,
         "status": "Aprovado",
         "order_id": "3989QB1Z69B"
+      },
+      {
+        "name": "Klinger Lomar",
+        "email": "klinger@lomarco.com.br",
+        "cargo": "Proprietário(a)",
+        "empresa": "Lomarco Engenharia",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso VIP antecipado individual",
+        "ticket_price": 230.0,
+        "status": "Aprovado",
+        "order_id": "3989QB3NT00"
       },
       {
         "name": "Natalia Marques",
