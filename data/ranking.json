@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-06-24T13:12:54.822907+00:00",
+  "updated_at": "2026-06-25T13:12:28.220284+00:00",
   "event_id": "3449146",
   "total_tickets": 4,
   "total_revenue": 1224.0,
   "summary": {
     "orders": {
-      "total": 9,
+      "total": 11,
       "total_revenue": 2894.0,
-      "approved": 9,
+      "approved": 11,
       "approved_revenue": 2894.0,
       "pending": 0,
       "pending_revenue": 0
     },
     "tickets_by_type": [
       {
+        "name": "Ingresso padrão antecipado individual",
+        "count": 7,
+        "revenue": 962.0
+      },
+      {
         "name": "Ingresso VIP antecipado individual",
         "count": 6,
         "revenue": 1932.0
-      },
-      {
-        "name": "Ingresso padrão antecipado individual",
-        "count": 5,
-        "revenue": 962.0
       },
       {
         "name": "VIP individual convidado",
@@ -82,6 +82,18 @@
         "ticket_price": 230.0,
         "status": "Aprovado",
         "order_id": "3989QB342SJ"
+      },
+      {
+        "name": "Edijane Santos Brandão",
+        "email": "edijane.brandao@topico.com.br",
+        "cargo": "Outro",
+        "empresa": "Tópico Locações de Galpões e Equipamentos para Industrias SA",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB4TCM2"
       },
       {
         "name": "Emerson Cabral",
@@ -190,6 +202,18 @@
         "ticket_price": 130.0,
         "status": "Aprovado",
         "order_id": "3989QB343NC"
+      },
+      {
+        "name": "Veronice Campos Freires",
+        "email": "veronice.freires@gmail.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Tópico Locações de Galpões e Equipamentos para Industrias SA",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB4T755"
       },
       {
         "name": "Yuri Enny",
