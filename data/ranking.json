@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-26T13:04:57.839389+00:00",
+  "updated_at": "2026-06-27T12:05:19.262591+00:00",
   "event_id": "3449146",
   "total_tickets": 4,
   "total_revenue": 1224.0,
   "summary": {
     "orders": {
-      "total": 11,
-      "total_revenue": 2894.0,
-      "approved": 11,
-      "approved_revenue": 2894.0,
+      "total": 13,
+      "total_revenue": 3469.0,
+      "approved": 13,
+      "approved_revenue": 3469.0,
       "pending": 0,
       "pending_revenue": 0
     },
@@ -25,8 +25,13 @@
       },
       {
         "name": "VIP individual convidado",
-        "count": 2,
+        "count": 5,
         "revenue": 0.0
+      },
+      {
+        "name": "Ingresso padrão antecipado para grupos (5+)",
+        "count": 5,
+        "revenue": 575.0
       },
       {
         "name": "Staff",
@@ -58,6 +63,42 @@
         "ticket_price": 221.0,
         "status": "Aprovado",
         "order_id": "3989QB2EKJN"
+      },
+      {
+        "name": "Carolina Carvalho",
+        "email": "carolina.carvalho@sincoengenharia.com.br",
+        "cargo": "Gerência",
+        "empresa": "Sinco Engenharia",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "VIP individual convidado",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB5CFQM"
+      },
+      {
+        "name": "Christopher Bandeira de Oliveira Santos",
+        "email": "christopher.bandeira@sincoengenharia.com.br",
+        "cargo": "Analista",
+        "empresa": "Sinco Engenharia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado para grupos (5+)",
+        "ticket_price": 115.0,
+        "status": "Aprovado",
+        "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Daniel Spedo Sanchez",
+        "email": "Daniel.sanchez@sincoengenharia.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Sinco Engenharia",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "VIP individual convidado",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB5CFQM"
       },
       {
         "name": "Dilcea Brandao",
@@ -144,6 +185,18 @@
         "order_id": "3989QB4MN35"
       },
       {
+        "name": "Henrique dos Santos",
+        "email": "henrique.santos@sincoengenharia.com.br",
+        "cargo": "Gerência",
+        "empresa": "Sinco Engenharia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado para grupos (5+)",
+        "ticket_price": 115.0,
+        "status": "Aprovado",
+        "order_id": "3989QB5AHG0"
+      },
+      {
         "name": "Kiara Santos Santana",
         "email": "kiara.santana@consorciosaneamento.com",
         "cargo": "Analista",
@@ -166,6 +219,18 @@
         "ticket_price": 230.0,
         "status": "Aprovado",
         "order_id": "3989QB3NT00"
+      },
+      {
+        "name": "Marcela Cruz Sanchez Rittes",
+        "email": "marcela.rittes@sincoengenharia.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Sinco Engenharia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado para grupos (5+)",
+        "ticket_price": 115.0,
+        "status": "Aprovado",
+        "order_id": "3989QB5AHG0"
       },
       {
         "name": "Natalia Marques",
@@ -192,6 +257,18 @@
         "order_id": "3989QB343NC"
       },
       {
+        "name": "Renato Bussamra Sanchez",
+        "email": "renato.sanchez@sincoengenharia.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Sinco Engenharia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado para grupos (5+)",
+        "ticket_price": 115.0,
+        "status": "Aprovado",
+        "order_id": "3989QB5AHG0"
+      },
+      {
         "name": "RODRIGO LOPEZ",
         "email": "eduardo@acaocorporate.com.br",
         "cargo": "Proprietário(a)",
@@ -204,6 +281,18 @@
         "order_id": "3989QB343NC"
       },
       {
+        "name": "Samuel Melo Silva",
+        "email": "samuel.melo@sincoengenharia.com.br",
+        "cargo": "Analista",
+        "empresa": "Sinco Engenharia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado para grupos (5+)",
+        "ticket_price": 115.0,
+        "status": "Aprovado",
+        "order_id": "3989QB5AHG0"
+      },
+      {
         "name": "Veronice Campos Freires",
         "email": "veronice.freires@gmail.com",
         "cargo": "Supervisão/Coordenação",
@@ -214,6 +303,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB4T755"
+      },
+      {
+        "name": "Wagner Luiz Gomes Zamboni",
+        "email": "wagner.zamboni@sincoengenharia.com.br",
+        "cargo": "Gerência",
+        "empresa": "Sinco Engenharia",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "VIP individual convidado",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB5CFQM"
       },
       {
         "name": "Yuri Enny",
