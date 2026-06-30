@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-29T14:43:23.910860+00:00",
+  "updated_at": "2026-06-30T13:05:29.425033+00:00",
   "event_id": "3449146",
   "total_tickets": 4,
   "total_revenue": 1224.0,
   "summary": {
     "orders": {
-      "total": 13,
+      "total": 17,
       "total_revenue": 3469.0,
-      "approved": 13,
+      "approved": 17,
       "approved_revenue": 3469.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão antecipado individual",
-        "count": 7,
+        "count": 11,
         "revenue": 962.0
       },
       {
@@ -173,6 +173,18 @@
         "order_id": "3989QB4J357"
       },
       {
+        "name": "Fernanda Siqueira",
+        "email": "fernanda.siqueira@cerradinho.com.br",
+        "cargo": "Analista",
+        "empresa": "Cerradinho Bioenergia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB601GZ"
+      },
+      {
         "name": "Gustavo Henrique Guimarães de Souza",
         "email": "gustavo.sousa@consorciosaneamento.com.br",
         "cargo": "Analista",
@@ -197,6 +209,18 @@
         "order_id": "3989QB5AHG0"
       },
       {
+        "name": "João Silva",
+        "email": "joao.rdsilva@cerradinho.com.br",
+        "cargo": "Analista",
+        "empresa": "CerradinhoBio",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB5U81P"
+      },
+      {
         "name": "Kiara Santos Santana",
         "email": "kiara.santana@consorciosaneamento.com",
         "cargo": "Analista",
@@ -219,6 +243,18 @@
         "ticket_price": 230.0,
         "status": "Aprovado",
         "order_id": "3989QB3NT00"
+      },
+      {
+        "name": "Larissa Monteiro",
+        "email": "larissa@realizaassessoria.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Realiza Assessoria Empresarial Ltda",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB5V693"
       },
       {
         "name": "Marcela Cruz Sanchez Rittes",
@@ -291,6 +327,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "TATIANE SANTOS SOARES",
+        "email": "tatiane.soares@seven.online",
+        "cargo": "Outro",
+        "empresa": "JUIZ DE FORA",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB603CN"
       },
       {
         "name": "Veronice Campos Freires",
