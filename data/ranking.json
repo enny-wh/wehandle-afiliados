@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-30T13:05:29.425033+00:00",
+  "updated_at": "2026-07-01T13:31:50.437922+00:00",
   "event_id": "3449146",
   "total_tickets": 4,
   "total_revenue": 1224.0,
   "summary": {
     "orders": {
-      "total": 17,
+      "total": 20,
       "total_revenue": 3469.0,
-      "approved": 17,
+      "approved": 20,
       "approved_revenue": 3469.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão antecipado individual",
-        "count": 11,
+        "count": 14,
         "revenue": 962.0
       },
       {
@@ -99,6 +99,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB5CFQM"
+      },
+      {
+        "name": "DANILO JUNIO IZIDORO",
+        "email": "danilo.izidoro@svpm.com.br",
+        "cargo": "Outro",
+        "empresa": "Serra Verde",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB61JJQ"
       },
       {
         "name": "Dilcea Brandao",
@@ -267,6 +279,30 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Meygam Souza",
+        "email": "meygam.souza@ambipar.com",
+        "cargo": "Outro",
+        "empresa": "Ambipar Enviromental Solutions LTDA",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB62EP9"
+      },
+      {
+        "name": "MONICA NAVARRO SIANFARANI",
+        "email": "monica.navarro@realizaassessoria.com.br",
+        "cargo": "Diretoria",
+        "empresa": "REALIZA ASSESSORIA EMPRESARIAL LTDA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB60LJH"
       },
       {
         "name": "Natalia Marques",
