@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-07-02T12:53:52.939921+00:00",
+  "updated_at": "2026-07-03T12:52:06.091821+00:00",
   "event_id": "3449146",
   "total_tickets": 4,
   "total_revenue": 1224.0,
   "summary": {
     "orders": {
-      "total": 20,
-      "total_revenue": 3469.0,
-      "approved": 20,
-      "approved_revenue": 3469.0,
+      "total": 21,
+      "total_revenue": 4509.0,
+      "approved": 21,
+      "approved_revenue": 4509.0,
       "pending": 0,
       "pending_revenue": 0
     },
     "tickets_by_type": [
       {
         "name": "Ingresso padrão antecipado individual",
-        "count": 14,
-        "revenue": 962.0
+        "count": 18,
+        "revenue": 2002.0
       },
       {
         "name": "Ingresso VIP antecipado individual",
@@ -40,6 +40,18 @@
       }
     ],
     "participants": [
+      {
+        "name": "Aaliyah Gonçalves Bonomi",
+        "email": "aaliyahbonomi@consbem.com.br",
+        "cargo": "Analista",
+        "empresa": "CONSBEM CONSTRUÇÕES E COMERCIO LTDA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 260.0,
+        "status": "Aprovado",
+        "order_id": "3989QB62HAC"
+      },
       {
         "name": "Arthur Werner",
         "email": "arthur.werner@lomarco.com.br",
@@ -149,6 +161,18 @@
         "order_id": "3989QB4TCM2"
       },
       {
+        "name": "ELOISA FERREIRA",
+        "email": "eloisaferreira@consbem.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "CONSBEM CONSTRUÇÕES E COMÉRCIO LTDA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 260.0,
+        "status": "Aprovado",
+        "order_id": "3989QB62HAC"
+      },
+      {
         "name": "Emerson Cabral",
         "email": "emerson.cabral@consorciosaneamento.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -231,6 +255,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB5U81P"
+      },
+      {
+        "name": "JOELSA VIANA SERAFIM",
+        "email": "joelsaviana@consbem.com.br",
+        "cargo": "Analista",
+        "empresa": "CONSBEM CONSTRUÇÕES E COMERCIO LTDA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 260.0,
+        "status": "Aprovado",
+        "order_id": "3989QB62HAC"
       },
       {
         "name": "Kiara Santos Santana",
@@ -363,6 +399,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "TALITA OLIVEIRA",
+        "email": "talitaoliveira@consbem.com.br",
+        "cargo": "Outro",
+        "empresa": "CONSBEM CONSTRUÇÕES E COMERCIO LTDA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 260.0,
+        "status": "Aprovado",
+        "order_id": "3989QB62HAC"
       },
       {
         "name": "TATIANE SANTOS SOARES",
