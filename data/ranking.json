@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-05T12:10:11.949286+00:00",
+  "updated_at": "2026-07-06T14:21:54.051952+00:00",
   "event_id": "3449146",
   "total_tickets": 4,
   "total_revenue": 1224.0,
   "summary": {
     "orders": {
-      "total": 21,
+      "total": 23,
       "total_revenue": 4509.0,
-      "approved": 21,
+      "approved": 23,
       "approved_revenue": 4509.0,
       "pending": 0,
       "pending_revenue": 0
@@ -32,6 +32,11 @@
         "name": "Ingresso padrão antecipado para grupos (5+)",
         "count": 5,
         "revenue": 575.0
+      },
+      {
+        "name": "Ingresso padrão individual",
+        "count": 2,
+        "revenue": 0.0
       },
       {
         "name": "Staff",
@@ -221,6 +226,18 @@
         "order_id": "3989QB601GZ"
       },
       {
+        "name": "Guilherme Salome",
+        "email": "guilherme.silva3@tkelevator.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "TK ELEVATOR",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB74EMT"
+      },
+      {
         "name": "Gustavo Henrique Guimarães de Souza",
         "email": "gustavo.sousa@consorciosaneamento.com.br",
         "cargo": "Analista",
@@ -267,6 +284,18 @@
         "ticket_price": 260.0,
         "status": "Aprovado",
         "order_id": "3989QB62HAC"
+      },
+      {
+        "name": "Juan Patrone",
+        "email": "juan.patrone@tkelevator.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "TK ELEVATOR",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB74ECH"
       },
       {
         "name": "Kiara Santos Santana",
