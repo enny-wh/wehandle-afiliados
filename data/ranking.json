@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-08T12:14:59.618557+00:00",
+  "updated_at": "2026-07-09T13:44:11.728656+00:00",
   "event_id": "3449146",
   "total_tickets": 4,
   "total_revenue": 1224.0,
   "summary": {
     "orders": {
-      "total": 23,
-      "total_revenue": 4509.0,
-      "approved": 23,
-      "approved_revenue": 4509.0,
+      "total": 24,
+      "total_revenue": 5121.0,
+      "approved": 24,
+      "approved_revenue": 5121.0,
       "pending": 0,
       "pending_revenue": 0
     },
@@ -35,8 +35,8 @@
       },
       {
         "name": "Ingresso padrão individual",
-        "count": 2,
-        "revenue": 0.0
+        "count": 4,
+        "revenue": 612.0
       },
       {
         "name": "Staff",
@@ -56,6 +56,18 @@
         "ticket_price": 260.0,
         "status": "Aprovado",
         "order_id": "3989QB62HAC"
+      },
+      {
+        "name": "ANA JARANDYA",
+        "email": "ana.jarandya@cmr4augustovelloso.com.br",
+        "cargo": "Outro",
+        "empresa": "Consórcio Litoral Norte - CAV/CMR4",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 306.0,
+        "status": "Aprovado",
+        "order_id": "3989QB7HEM3"
       },
       {
         "name": "Arthur Werner",
@@ -332,6 +344,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB5V693"
+      },
+      {
+        "name": "LUCAS DA CRUZ MARQUES",
+        "email": "lucas.marques@cmr4augustovelloso.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Consórcio Litoral Norte - CAV/CMR4",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 306.0,
+        "status": "Aprovado",
+        "order_id": "3989QB7HEM3"
       },
       {
         "name": "Marcela Cruz Sanchez Rittes",
