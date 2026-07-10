@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-09T13:44:11.728656+00:00",
+  "updated_at": "2026-07-10T13:05:22.685941+00:00",
   "event_id": "3449146",
   "total_tickets": 4,
   "total_revenue": 1224.0,
   "summary": {
     "orders": {
-      "total": 24,
-      "total_revenue": 5121.0,
-      "approved": 24,
-      "approved_revenue": 5121.0,
+      "total": 25,
+      "total_revenue": 5513.0,
+      "approved": 25,
+      "approved_revenue": 5513.0,
       "pending": 0,
       "pending_revenue": 0
     },
@@ -37,6 +37,11 @@
         "name": "Ingresso padrão individual",
         "count": 4,
         "revenue": 612.0
+      },
+      {
+        "name": "Ingresso individual VIP",
+        "count": 1,
+        "revenue": 392.0
       },
       {
         "name": "Staff",
@@ -404,6 +409,18 @@
         "ticket_price": 221.0,
         "status": "Aprovado",
         "order_id": "3989QB2EKJN"
+      },
+      {
+        "name": "RAFAELA OLIVEIRA DE JESUS",
+        "email": "rafaela.jesus@v4company.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "V4 Company",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso individual VIP",
+        "ticket_price": 392.0,
+        "status": "Aprovado",
+        "order_id": "3989QB7R4LR"
       },
       {
         "name": "REGINA GONÇALES",
