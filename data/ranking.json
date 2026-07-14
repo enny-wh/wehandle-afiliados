@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-12T11:52:06.175949+00:00",
+  "updated_at": "2026-07-14T12:06:00.710064+00:00",
   "event_id": "3449146",
   "total_tickets": 4,
   "total_revenue": 1224.0,
   "summary": {
     "orders": {
-      "total": 25,
-      "total_revenue": 5513.0,
-      "approved": 25,
-      "approved_revenue": 5513.0,
+      "total": 26,
+      "total_revenue": 6073.0,
+      "approved": 26,
+      "approved_revenue": 6073.0,
       "pending": 0,
       "pending_revenue": 0
     },
@@ -40,8 +40,8 @@
       },
       {
         "name": "Ingresso individual VIP",
-        "count": 1,
-        "revenue": 392.0
+        "count": 2,
+        "revenue": 952.0
       },
       {
         "name": "Staff",
@@ -385,6 +385,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB62EP9"
+      },
+      {
+        "name": "Mileine Araujo Azevedo",
+        "email": "mileine.araujo@enops.com.br",
+        "cargo": "Outro",
+        "empresa": "Enops Engenharia S/A",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso individual VIP",
+        "ticket_price": 560.0,
+        "status": "Aprovado",
+        "order_id": "3989QB8BGZS"
       },
       {
         "name": "MONICA NAVARRO SIANFARANI",
