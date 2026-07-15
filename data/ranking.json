@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-14T12:06:00.710064+00:00",
+  "updated_at": "2026-07-15T12:10:08.390288+00:00",
   "event_id": "3449146",
   "total_tickets": 4,
   "total_revenue": 1224.0,
   "summary": {
     "orders": {
-      "total": 26,
-      "total_revenue": 6073.0,
-      "approved": 26,
-      "approved_revenue": 6073.0,
+      "total": 27,
+      "total_revenue": 6505.0,
+      "approved": 27,
+      "approved_revenue": 6505.0,
       "pending": 0,
       "pending_revenue": 0
     },
@@ -17,6 +17,11 @@
         "name": "Ingresso padrão antecipado individual",
         "count": 18,
         "revenue": 2002.0
+      },
+      {
+        "name": "Ingresso padrão individual",
+        "count": 6,
+        "revenue": 1044.0
       },
       {
         "name": "Ingresso VIP antecipado individual",
@@ -32,11 +37,6 @@
         "name": "Ingresso padrão antecipado para grupos (5+)",
         "count": 5,
         "revenue": 575.0
-      },
-      {
-        "name": "Ingresso padrão individual",
-        "count": 4,
-        "revenue": 612.0
       },
       {
         "name": "Ingresso individual VIP",
@@ -97,6 +97,18 @@
         "ticket_price": 221.0,
         "status": "Aprovado",
         "order_id": "3989QB2EKJN"
+      },
+      {
+        "name": "Bruno Araújo",
+        "email": "bruno.santos@jofege.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Jofege Pavimentação e Construção Ltda",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 216.0,
+        "status": "Aprovado",
+        "order_id": "3989QB7TKCL"
       },
       {
         "name": "Carolina Carvalho",
@@ -277,6 +289,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Isabela Léporo",
+        "email": "isabela.leporo@jofege.com.br",
+        "cargo": "Analista",
+        "empresa": "Jofege Pavimentação e Construção Ltda",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 216.0,
+        "status": "Aprovado",
+        "order_id": "3989QB7TKCL"
       },
       {
         "name": "João Silva",
