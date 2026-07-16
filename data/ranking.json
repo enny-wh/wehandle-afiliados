@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-15T12:10:08.390288+00:00",
+  "updated_at": "2026-07-16T12:15:01.895098+00:00",
   "event_id": "3449146",
   "total_tickets": 4,
   "total_revenue": 1224.0,
   "summary": {
     "orders": {
-      "total": 27,
+      "total": 29,
       "total_revenue": 6505.0,
-      "approved": 27,
+      "approved": 29,
       "approved_revenue": 6505.0,
       "pending": 0,
       "pending_revenue": 0
@@ -20,7 +20,7 @@
       },
       {
         "name": "Ingresso padrão individual",
-        "count": 6,
+        "count": 8,
         "revenue": 1044.0
       },
       {
@@ -267,6 +267,18 @@
         "order_id": "3989QB74EMT"
       },
       {
+        "name": "Guilherme Noronha",
+        "email": "guilherme.noronha@adnconstrutora.com.br",
+        "cargo": "Gerência",
+        "empresa": "Grupo ADN SA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB8NU1S"
+      },
+      {
         "name": "Gustavo Henrique Guimarães de Souza",
         "email": "gustavo.sousa@consorciosaneamento.com.br",
         "cargo": "Analista",
@@ -373,6 +385,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB5V693"
+      },
+      {
+        "name": "Leandro Sousa",
+        "email": "leandro.sousa@adnconstrutora.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Grupo ADN SA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB8NUEY"
       },
       {
         "name": "LUCAS DA CRUZ MARQUES",
