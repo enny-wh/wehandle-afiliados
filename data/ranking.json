@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-17T12:02:50.093999+00:00",
+  "updated_at": "2026-07-18T11:46:10.926264+00:00",
   "event_id": "3449146",
-  "total_tickets": 4,
-  "total_revenue": 1224.0,
+  "total_tickets": 6,
+  "total_revenue": 1896.0,
   "summary": {
     "orders": {
-      "total": 29,
-      "total_revenue": 6505.0,
-      "approved": 29,
-      "approved_revenue": 6505.0,
+      "total": 30,
+      "total_revenue": 7177.0,
+      "approved": 30,
+      "approved_revenue": 7177.0,
       "pending": 0,
       "pending_revenue": 0
     },
@@ -40,8 +40,8 @@
       },
       {
         "name": "Ingresso individual VIP",
-        "count": 2,
-        "revenue": 952.0
+        "count": 4,
+        "revenue": 1624.0
       },
       {
         "name": "Staff",
@@ -147,6 +147,18 @@
         "order_id": "3989QB5CFQM"
       },
       {
+        "name": "DANIELLE MARTINS VERAS DA SILVA",
+        "email": "danielle.martins@petroreconcavo.com.br",
+        "cargo": "Analista",
+        "empresa": "Petroreconcavo",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso individual VIP",
+        "ticket_price": 336.0,
+        "status": "Aprovado",
+        "order_id": "3989QB92UUL"
+      },
+      {
         "name": "DANILO JUNIO IZIDORO",
         "email": "danilo.izidoro@svpm.com.br",
         "cargo": "Outro",
@@ -193,6 +205,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB4TCM2"
+      },
+      {
+        "name": "ELIZENIR VALENTIM DE ARAUJO",
+        "email": "elly.araujo@petroreconcavo.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Petroreconcavo",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso individual VIP",
+        "ticket_price": 336.0,
+        "status": "Aprovado",
+        "order_id": "3989QB92UUL"
       },
       {
         "name": "ELOISA FERREIRA",
@@ -608,50 +632,50 @@
       "position": 2
     },
     {
+      "code": "ANNAGT360",
+      "name": "Anna Elisa Sarti",
+      "tickets": 2,
+      "revenue": 672.0,
+      "position": 3
+    },
+    {
       "code": "ADRIANAGT360",
       "name": "Adriana Chigueira",
       "tickets": 0,
       "revenue": 0.0,
-      "position": 3
+      "position": 4
     },
     {
       "code": "AFONSOGT360",
       "name": "Afonso Brunelli Ferragut",
       "tickets": 0,
       "revenue": 0.0,
-      "position": 4
+      "position": 5
     },
     {
       "code": "ALISSSONGT360",
       "name": "Alisson Vasconcelos Dos Santos",
       "tickets": 0,
       "revenue": 0.0,
-      "position": 5
+      "position": 6
     },
     {
       "code": "ANAGT360",
       "name": "Ana Paula Simões Pessoa",
       "tickets": 0,
       "revenue": 0.0,
-      "position": 6
+      "position": 7
     },
     {
       "code": "ANDREIAGT360",
       "name": "Andreia Alves De Andrade",
       "tickets": 0,
       "revenue": 0.0,
-      "position": 7
+      "position": 8
     },
     {
       "code": "ANDRESSAGT360",
       "name": "Andressa Nozue",
-      "tickets": 0,
-      "revenue": 0.0,
-      "position": 8
-    },
-    {
-      "code": "ANNAGT360",
-      "name": "Anna Elisa Sarti",
       "tickets": 0,
       "revenue": 0.0,
       "position": 9
