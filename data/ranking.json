@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-21T12:20:03.778935+00:00",
+  "updated_at": "2026-07-22T12:22:27.650696+00:00",
   "event_id": "3449146",
-  "total_tickets": 6,
-  "total_revenue": 1896.0,
+  "total_tickets": 7,
+  "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 30,
-      "total_revenue": 7177.0,
-      "approved": 30,
-      "approved_revenue": 7177.0,
+      "total": 31,
+      "total_revenue": 7393.0,
+      "approved": 31,
+      "approved_revenue": 7393.0,
       "pending": 0,
       "pending_revenue": 0
     },
@@ -20,8 +20,8 @@
       },
       {
         "name": "Ingresso padrão individual",
-        "count": 8,
-        "revenue": 1044.0
+        "count": 9,
+        "revenue": 1260.0
       },
       {
         "name": "Ingresso VIP antecipado individual",
@@ -73,6 +73,18 @@
         "ticket_price": 306.0,
         "status": "Aprovado",
         "order_id": "3989QB7HEM3"
+      },
+      {
+        "name": "Ans Ferreira",
+        "email": "apmercatellif@hotmail.com",
+        "cargo": "Gerência",
+        "empresa": "Planalto Hidrotecnologia",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 216.0,
+        "status": "Aprovado",
+        "order_id": "3989QB9SYV3"
       },
       {
         "name": "Arthur Werner",
@@ -620,8 +632,8 @@
     {
       "code": "ADRIANOGT360",
       "name": "Adriano Dutra",
-      "tickets": 2,
-      "revenue": 442.0,
+      "tickets": 3,
+      "revenue": 658.0,
       "position": 1
     },
     {
