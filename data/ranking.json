@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-23T12:19:22.471649+00:00",
+  "updated_at": "2026-07-24T12:14:09.181464+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 31,
+      "total": 33,
       "total_revenue": 7393.0,
-      "approved": 31,
+      "approved": 33,
       "approved_revenue": 7393.0,
       "pending": 0,
       "pending_revenue": 0
@@ -20,7 +20,7 @@
       },
       {
         "name": "Ingresso padrão individual",
-        "count": 9,
+        "count": 11,
         "revenue": 1260.0
       },
       {
@@ -121,6 +121,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QB7TKCL"
+      },
+      {
+        "name": "CARLOS MENEZES",
+        "email": "carlos.menezes@ceecbrasil.com.br",
+        "cargo": "Gerência",
+        "empresa": "ceec",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBA6V87"
       },
       {
         "name": "Carolina Carvalho",
@@ -577,6 +589,18 @@
         "ticket_price": 260.0,
         "status": "Aprovado",
         "order_id": "3989QB62HAC"
+      },
+      {
+        "name": "TATHIANA SANDE",
+        "email": "tathiana.sande@ceecbrasil.com.br",
+        "cargo": "Gerência",
+        "empresa": "CHINA ENERGY OVERSEAS INVESTIMENTO GESTAO E SERVICOS DO BRASIL LTDA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBA6RL7"
       },
       {
         "name": "TATIANE SANTOS SOARES",
