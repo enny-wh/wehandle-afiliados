@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-24T12:14:09.181464+00:00",
+  "updated_at": "2026-07-25T11:57:48.938105+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 33,
-      "total_revenue": 7393.0,
-      "approved": 33,
-      "approved_revenue": 7393.0,
+      "total": 36,
+      "total_revenue": 8401.0,
+      "approved": 36,
+      "approved_revenue": 8401.0,
       "pending": 0,
       "pending_revenue": 0
     },
@@ -20,8 +20,13 @@
       },
       {
         "name": "Ingresso padrão individual",
-        "count": 11,
+        "count": 13,
         "revenue": 1260.0
+      },
+      {
+        "name": "Ingresso individual VIP",
+        "count": 7,
+        "revenue": 2632.0
       },
       {
         "name": "Ingresso VIP antecipado individual",
@@ -37,11 +42,6 @@
         "name": "Ingresso padrão antecipado para grupos (5+)",
         "count": 5,
         "revenue": 575.0
-      },
-      {
-        "name": "Ingresso individual VIP",
-        "count": 4,
-        "revenue": 1624.0
       },
       {
         "name": "Staff",
@@ -121,6 +121,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QB7TKCL"
+      },
+      {
+        "name": "CARLA MARIANO",
+        "email": "carla.mariano@elecnor.es",
+        "cargo": "Analista",
+        "empresa": "Elecnor do Brasil",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso individual VIP",
+        "ticket_price": 336.0,
+        "status": "Aprovado",
+        "order_id": "3989QBACM7K"
       },
       {
         "name": "CARLOS MENEZES",
@@ -303,6 +315,18 @@
         "order_id": "3989QB601GZ"
       },
       {
+        "name": "Gabriel Stefanie Gomes",
+        "email": "gbsgoliveira@gmail.com",
+        "cargo": "Analista",
+        "empresa": "Comgás",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBAFG82"
+      },
+      {
         "name": "Guilherme Salome",
         "email": "guilherme.silva3@tkelevator.com",
         "cargo": "Supervisão/Coordenação",
@@ -435,6 +459,18 @@
         "order_id": "3989QB5V693"
       },
       {
+        "name": "Laura Silva Macedo",
+        "email": "lsmacedo@comgas.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Comgas",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBAFGBP"
+      },
+      {
         "name": "Leandro Sousa",
         "email": "leandro.sousa@adnconstrutora.com.br",
         "cargo": "Diretoria",
@@ -469,6 +505,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Maria Pinchimel",
+        "email": "maria.pinchimel@elecnor.es",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Elecnor do Brasil",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso individual VIP",
+        "ticket_price": 336.0,
+        "status": "Aprovado",
+        "order_id": "3989QBACM7K"
       },
       {
         "name": "Meygam Souza",
@@ -613,6 +661,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB603CN"
+      },
+      {
+        "name": "Thaynná Peixoto",
+        "email": "thaynna.peixoto@elecnor.es",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Elecnor do Brasil",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso individual VIP",
+        "ticket_price": 336.0,
+        "status": "Aprovado",
+        "order_id": "3989QBACM7K"
       },
       {
         "name": "Veronice Campos Freires",
