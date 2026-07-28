@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-27T13:33:15.520175+00:00",
+  "updated_at": "2026-07-28T12:48:50.736931+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 36,
+      "total": 38,
       "total_revenue": 8401.0,
-      "approved": 36,
+      "approved": 38,
       "approved_revenue": 8401.0,
       "pending": 0,
       "pending_revenue": 0
@@ -20,7 +20,7 @@
       },
       {
         "name": "Ingresso padrão individual",
-        "count": 13,
+        "count": 15,
         "revenue": 1260.0
       },
       {
@@ -169,6 +169,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Daniel Goulart Teixeira Goulart Teixeira",
+        "email": "daniel.goulart@americasmed.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Rede Américas",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBAVM35"
       },
       {
         "name": "Daniel Spedo Sanchez",
@@ -385,6 +397,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QB7TKCL"
+      },
+      {
+        "name": "Jaqueline Maciel",
+        "email": "jaqueline.segtrab@gmail.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Rede Américas",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBAVKCJ"
       },
       {
         "name": "João Silva",
