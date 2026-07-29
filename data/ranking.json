@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-28T12:48:50.736931+00:00",
+  "updated_at": "2026-07-29T12:56:06.224850+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 38,
+      "total": 41,
       "total_revenue": 8401.0,
-      "approved": 38,
+      "approved": 41,
       "approved_revenue": 8401.0,
       "pending": 0,
       "pending_revenue": 0
@@ -20,7 +20,7 @@
       },
       {
         "name": "Ingresso padrão individual",
-        "count": 15,
+        "count": 18,
         "revenue": 1260.0
       },
       {
@@ -109,6 +109,18 @@
         "ticket_price": 221.0,
         "status": "Aprovado",
         "order_id": "3989QB2EKJN"
+      },
+      {
+        "name": "BRUNA AMARO",
+        "email": "amarobruna234@gmail.com",
+        "cargo": "Analista",
+        "empresa": "Rede Américas",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBB5YLD"
       },
       {
         "name": "Bruno Araújo",
@@ -651,6 +663,18 @@
         "order_id": "3989QB5AHG0"
       },
       {
+        "name": "Tacilla Freitas Batista",
+        "email": "tacillafreitas803@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Rede Américas",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBB5KA4"
+      },
+      {
         "name": "TALITA OLIVEIRA",
         "email": "talitaoliveira@consbem.com.br",
         "cargo": "Outro",
@@ -685,6 +709,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB603CN"
+      },
+      {
+        "name": "Thais Arcaide Carneiro",
+        "email": "thais.carneiro@americasmed.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Rede Américas",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBB5LH9"
       },
       {
         "name": "Thaynná Peixoto",
