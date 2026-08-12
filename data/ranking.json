@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-11T11:38:02.221125+00:00",
+  "updated_at": "2026-08-12T11:40:15.233764+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 45,
+      "total": 47,
       "total_revenue": 8737.0,
-      "approved": 45,
+      "approved": 47,
       "approved_revenue": 8737.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 21,
+        "count": 23,
         "revenue": 1260.0
       },
       {
@@ -447,6 +447,18 @@
         "order_id": "3989QBAVKCJ"
       },
       {
+        "name": "Jessica Karolainy Da Silva Rendaki",
+        "email": "jessica.rendaki@votorantim.com",
+        "cargo": "Analista",
+        "empresa": "COE VOTORANTIM",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBEYJ8U"
+      },
+      {
         "name": "João Silva",
         "email": "joao.rdsilva@cerradinho.com.br",
         "cargo": "Analista",
@@ -709,6 +721,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBB5KA4"
+      },
+      {
+        "name": "Taiss Fernanda Vieira",
+        "email": "taiss.vieira@votorantim.com",
+        "cargo": "Analista",
+        "empresa": "COE VOTORANTIM",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBEYKK1"
       },
       {
         "name": "TALITA OLIVEIRA",
