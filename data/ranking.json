@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-18T11:17:13.136717+00:00",
+  "updated_at": "2026-08-19T11:17:34.859252+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 47,
+      "total": 48,
       "total_revenue": 8737.0,
-      "approved": 47,
+      "approved": 48,
       "approved_revenue": 8737.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 23,
+        "count": 24,
         "revenue": 1260.0
       },
       {
@@ -697,6 +697,18 @@
         "ticket_price": 130.0,
         "status": "Aprovado",
         "order_id": "3989QB343NC"
+      },
+      {
+        "name": "Rosemberg Nunes Ferreira Filho",
+        "email": "rfilho@ternium.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Ternium Brasil",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBG0P3N"
       },
       {
         "name": "Samuel Melo Silva",
