@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-08-19T11:17:34.859252+00:00",
+  "updated_at": "2026-08-20T11:18:45.086556+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 48,
-      "total_revenue": 8737.0,
-      "approved": 48,
-      "approved_revenue": 8737.0,
+      "total": 51,
+      "total_revenue": 10519.0,
+      "approved": 51,
+      "approved_revenue": 10519.0,
       "pending": 0,
       "pending_revenue": 0
     },
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 24,
-        "revenue": 1260.0
+        "count": 32,
+        "revenue": 3042.0
       },
       {
         "name": "Ingresso padrão antecipado individual",
@@ -181,6 +181,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB5CFQM"
+      },
+      {
+        "name": "Carolina Vieira",
+        "email": "carolina.vieira@glbr.com.br",
+        "cargo": "Gerência",
+        "empresa": "GL events",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBG77HF"
       },
       {
         "name": "Christopher Bandeira de Oliveira Santos",
@@ -423,6 +435,18 @@
         "order_id": "3989QB5AHG0"
       },
       {
+        "name": "Herbert Freitas de Oliveira",
+        "email": "herbert.oliveira@verisure.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Verisure",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 216.0,
+        "status": "Aprovado",
+        "order_id": "3989QBFLJDQ"
+      },
+      {
         "name": "Isabela Léporo",
         "email": "isabela.leporo@jofege.com.br",
         "cargo": "Analista",
@@ -483,6 +507,18 @@
         "order_id": "3989QB62HAC"
       },
       {
+        "name": "Joseane Martins",
+        "email": "joseane.ribeiro@demarco.com.br",
+        "cargo": "Gerência",
+        "empresa": "DEMARCO & CO",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 306.0,
+        "status": "Aprovado",
+        "order_id": "3989QBFVPD0"
+      },
+      {
         "name": "Juan Patrone",
         "email": "juan.patrone@tkelevator.com",
         "cargo": "Supervisão/Coordenação",
@@ -493,6 +529,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB74ECH"
+      },
+      {
+        "name": "Karla Brito",
+        "email": "karla.brito@demarco.com.br",
+        "cargo": "Gerência",
+        "empresa": "DEMARCO & CO",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 306.0,
+        "status": "Aprovado",
+        "order_id": "3989QBFVPD0"
       },
       {
         "name": "Kiara Santos Santana",
@@ -567,6 +615,18 @@
         "order_id": "3989QB7HEM3"
       },
       {
+        "name": "Luiza Castro",
+        "email": "luiza.castro@demarco.com.br",
+        "cargo": "Outro",
+        "empresa": "DEMARCO & CO",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 306.0,
+        "status": "Aprovado",
+        "order_id": "3989QBFVPD0"
+      },
+      {
         "name": "Marcela Cruz Sanchez Rittes",
         "email": "marcela.rittes@sincoengenharia.com.br",
         "cargo": "Diretoria",
@@ -639,6 +699,18 @@
         "order_id": "3989QB2EKJN"
       },
       {
+        "name": "Pedro Henrique Costa Dutra",
+        "email": "pedro.dutra@verisure.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Verisure",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 216.0,
+        "status": "Aprovado",
+        "order_id": "3989QBFLJDQ"
+      },
+      {
         "name": "RAFAELA OLIVEIRA DE JESUS",
         "email": "rafaela.jesus@v4company.com",
         "cargo": "Supervisão/Coordenação",
@@ -697,6 +769,18 @@
         "ticket_price": 130.0,
         "status": "Aprovado",
         "order_id": "3989QB343NC"
+      },
+      {
+        "name": "Rodrigo Siqueira Miguel",
+        "email": "rodrigo.smiguel@verisure.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Verisure",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 216.0,
+        "status": "Aprovado",
+        "order_id": "3989QBFLJDQ"
       },
       {
         "name": "Rosemberg Nunes Ferreira Filho",
@@ -829,6 +913,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB4T755"
+      },
+      {
+        "name": "Victor Isse D'Alessandro",
+        "email": "victor.alessandro@verisure.com.br",
+        "cargo": "Gerência",
+        "empresa": "Verisure",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 216.0,
+        "status": "Aprovado",
+        "order_id": "3989QBFLJDQ"
       },
       {
         "name": "Wagner Luiz Gomes Zamboni",
