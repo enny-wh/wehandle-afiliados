@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-21T11:17:56.554558+00:00",
+  "updated_at": "2026-08-22T11:13:16.711900+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 51,
+      "total": 53,
       "total_revenue": 10519.0,
-      "approved": 51,
+      "approved": 53,
       "approved_revenue": 10519.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 32,
+        "count": 34,
         "revenue": 3042.0
       },
       {
@@ -483,6 +483,18 @@
         "order_id": "3989QBEYJ8U"
       },
       {
+        "name": "Jhulia Santos",
+        "email": "jhuliadeizi.pereiras@dhl.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "DHL",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBGYK16"
+      },
+      {
         "name": "João Silva",
         "email": "joao.rdsilva@cerradinho.com.br",
         "cargo": "Analista",
@@ -805,6 +817,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Sulamita Cristina",
+        "email": "sulamita.cristina25@unifesp.br",
+        "cargo": "Analista",
+        "empresa": "DHL Logistics Brazil",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBGYKKT"
       },
       {
         "name": "Tacilla Freitas Batista",
