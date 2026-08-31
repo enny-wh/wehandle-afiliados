@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-30T15:07:42.217817+00:00",
+  "updated_at": "2026-08-31T17:46:05.121371+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 54,
+      "total": 56,
       "total_revenue": 10519.0,
-      "approved": 54,
+      "approved": 56,
       "approved_revenue": 10519.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 35,
+        "count": 37,
         "revenue": 3042.0
       },
       {
@@ -675,6 +675,18 @@
         "order_id": "3989QBACM7K"
       },
       {
+        "name": "Mariana Minatel Troly",
+        "email": "mariana.troly@citrosuco.com",
+        "cargo": "Outro",
+        "empresa": "CITROSUCO",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBYC2EL"
+      },
+      {
         "name": "Meygam Souza",
         "email": "meygam.souza@ambipar.com",
         "cargo": "Outro",
@@ -925,6 +937,18 @@
         "ticket_price": 336.0,
         "status": "Aprovado",
         "order_id": "3989QBACM7K"
+      },
+      {
+        "name": "VANDIER REIS SILVA",
+        "email": "vandier.reis@klabin.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Klabin",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBYDQTG"
       },
       {
         "name": "Vanessa Wagner",
