@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-31T17:46:05.121371+00:00",
+  "updated_at": "2026-09-01T15:20:50.950579+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 56,
+      "total": 58,
       "total_revenue": 10519.0,
-      "approved": 56,
+      "approved": 58,
       "approved_revenue": 10519.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 37,
+        "count": 39,
         "revenue": 3042.0
       },
       {
@@ -205,6 +205,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "CLEBER COSTA",
+        "email": "pedro.dutra@verisure.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "VERISURE ALARM",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBYYMUA"
       },
       {
         "name": "Daniel Goulart Teixeira Goulart Teixeira",
@@ -625,6 +637,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB8NUEY"
+      },
+      {
+        "name": "LUCAS HENRIQUE",
+        "email": "pedro.dutra@verisure.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "VERISURE ALARM",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBYYZ15"
       },
       {
         "name": "LUCAS DA CRUZ MARQUES",
