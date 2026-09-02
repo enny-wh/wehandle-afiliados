@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-01T15:20:50.950579+00:00",
+  "updated_at": "2026-09-02T14:50:07.118300+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 58,
+      "total": 60,
       "total_revenue": 10519.0,
-      "approved": 58,
+      "approved": 60,
       "approved_revenue": 10519.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 39,
+        "count": 41,
         "revenue": 3042.0
       },
       {
@@ -663,6 +663,18 @@
         "order_id": "3989QB7HEM3"
       },
       {
+        "name": "Ludy Milla Alves Pego",
+        "email": "lpego@sabesp.com.br",
+        "cargo": "Outro",
+        "empresa": "SABESP",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBYZH19"
+      },
+      {
         "name": "Luiza Castro",
         "email": "luiza.castro@demarco.com.br",
         "cargo": "Outro",
@@ -1009,6 +1021,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QBFLJDQ"
+      },
+      {
+        "name": "Vinicius Alves Silva",
+        "email": "viniciusalves@sabesp.com.br",
+        "cargo": "Analista",
+        "empresa": "Sabesp",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBYZM4Q"
       },
       {
         "name": "Wagner Luiz Gomes Zamboni",
