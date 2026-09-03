@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-02T14:50:07.118300+00:00",
+  "updated_at": "2026-09-03T14:49:18.179124+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 60,
+      "total": 61,
       "total_revenue": 10519.0,
-      "approved": 60,
+      "approved": 61,
       "approved_revenue": 10519.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 41,
+        "count": 42,
         "revenue": 3042.0
       },
       {
@@ -445,6 +445,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB4MN35"
+      },
+      {
+        "name": "Heloisa Rodrigues",
+        "email": "heloisa.rodrigues@tecban.com.br",
+        "cargo": "Analista",
+        "empresa": "Tecban",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBYPQ2V"
       },
       {
         "name": "Henrique dos Santos",
