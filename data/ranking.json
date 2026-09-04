@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-09-03T14:49:18.179124+00:00",
+  "updated_at": "2026-09-04T14:38:50.024788+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 61,
-      "total_revenue": 10519.0,
-      "approved": 61,
-      "approved_revenue": 10519.0,
+      "total": 65,
+      "total_revenue": 10807.0,
+      "approved": 65,
+      "approved_revenue": 10807.0,
       "pending": 0,
       "pending_revenue": 0
     },
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 42,
-        "revenue": 3042.0
+        "count": 46,
+        "revenue": 3330.0
       },
       {
         "name": "Ingresso padrão antecipado individual",
@@ -145,6 +145,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QB7TKCL"
+      },
+      {
+        "name": "Camila Alves Dos Santos",
+        "email": "camila.adsantos2@gmail.com",
+        "cargo": "Analista",
+        "empresa": "Riachuelo",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJ6C3P"
       },
       {
         "name": "CARLA MARIANO",
@@ -387,6 +399,18 @@
         "order_id": "3989QB4J357"
       },
       {
+        "name": "Felipe Nakabayashi de Fiore",
+        "email": "felipe.fiore@riachuelo.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Riachuelo",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJ6B3S"
+      },
+      {
         "name": "Fernanda Siqueira",
         "email": "fernanda.siqueira@cerradinho.com.br",
         "cargo": "Analista",
@@ -397,6 +421,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB601GZ"
+      },
+      {
+        "name": "Fernanda Sugio",
+        "email": "fernanda.sugio@aurenenergia.com.br",
+        "cargo": "Analista",
+        "empresa": "Auren Energia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 144.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJ1NLT"
       },
       {
         "name": "Gabriel Stefanie Gomes",
@@ -889,6 +925,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Sandro Luiz Reis da Silva",
+        "email": "sandro.silva@aurenenergia.com.br",
+        "cargo": "Analista",
+        "empresa": "Auren Energia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 144.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJ1KMT"
       },
       {
         "name": "Sulamita Cristina",
