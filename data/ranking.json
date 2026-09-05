@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-04T14:38:50.024788+00:00",
+  "updated_at": "2026-09-05T13:37:05.191086+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 65,
+      "total": 69,
       "total_revenue": 10807.0,
-      "approved": 65,
+      "approved": 69,
       "approved_revenue": 10807.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 46,
+        "count": 50,
         "revenue": 3330.0
       },
       {
@@ -231,6 +231,18 @@
         "order_id": "3989QBYYMUA"
       },
       {
+        "name": "Daiana Vieira da Costa",
+        "email": "daiana.costa@riachuelo.com.br",
+        "cargo": "Analista",
+        "empresa": "Riachuelo",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJ6QB4"
+      },
+      {
         "name": "Daniel Goulart Teixeira Goulart Teixeira",
         "email": "daniel.goulart@americasmed.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -373,6 +385,18 @@
         "ticket_price": 460.0,
         "status": "Aprovado",
         "order_id": "3989QB1Z69B"
+      },
+      {
+        "name": "Evelin Andressa Alves Soares Corsani",
+        "email": "evelin.soares@sistemaescudo.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Sistema Escudo",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJ8CCN"
       },
       {
         "name": "Fábio Spigolon",
@@ -685,6 +709,30 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB8NUEY"
+      },
+      {
+        "name": "Lilian Nucci",
+        "email": "lilian.nucci@citrosuco.com",
+        "cargo": "Gerência",
+        "empresa": "Citrosuco",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJ8GSR"
+      },
+      {
+        "name": "Luan Cleber Silva Santos",
+        "email": "luan_cleber13@hotmail.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Riachuelo",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJ6PCM"
       },
       {
         "name": "LUCAS HENRIQUE",
