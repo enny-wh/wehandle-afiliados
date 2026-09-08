@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-07T16:13:21.299183+00:00",
+  "updated_at": "2026-09-08T14:49:54.860385+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 69,
+      "total": 71,
       "total_revenue": 10807.0,
-      "approved": 69,
+      "approved": 71,
       "approved_revenue": 10807.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 50,
+        "count": 51,
         "revenue": 3330.0
       },
       {
@@ -34,6 +34,11 @@
         "revenue": 1932.0
       },
       {
+        "name": "Staff",
+        "count": 5,
+        "revenue": 0.0
+      },
+      {
         "name": "VIP individual convidado",
         "count": 5,
         "revenue": 0.0
@@ -42,11 +47,6 @@
         "name": "Ingresso padrão antecipado para grupos (5+)",
         "count": 5,
         "revenue": 575.0
-      },
-      {
-        "name": "Staff",
-        "count": 1,
-        "revenue": 0.0
       }
     ],
     "participants": [
@@ -97,6 +97,18 @@
         "ticket_price": 230.0,
         "status": "Aprovado",
         "order_id": "3989QB3NT00"
+      },
+      {
+        "name": "Arthur Tobias",
+        "email": "arthur.tobias@wehandle.com.br",
+        "cargo": "Analista",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJZ05R"
       },
       {
         "name": "Beatriz Hipolito",
@@ -217,6 +229,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Claudia Miamura",
+        "email": "claudia.miamura@einstein.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "EINSTEIN Hospital Israelita",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJQ8JM"
       },
       {
         "name": "CLEBER COSTA",
@@ -457,6 +481,18 @@
         "ticket_price": 144.0,
         "status": "Aprovado",
         "order_id": "3989QBJ1NLT"
+      },
+      {
+        "name": "Gabriel Machado",
+        "email": "gabriel.machado@wehandle.com.br",
+        "cargo": "Analista",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJZ05R"
       },
       {
         "name": "Gabriel Stefanie Gomes",
@@ -891,6 +927,18 @@
         "order_id": "3989QB7R4LR"
       },
       {
+        "name": "Rafaela Cezarino",
+        "email": "rafaela.cezarino@wehandle.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJZ05R"
+      },
+      {
         "name": "Raquel Hinno",
         "email": "raquel.hinno@linde.com",
         "cargo": "Outro",
@@ -1141,6 +1189,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBYZM4Q"
+      },
+      {
+        "name": "Vitor Oliveira",
+        "email": "vitor.oliveria@wehandle.com.br",
+        "cargo": "Analista",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJZ05R"
       },
       {
         "name": "Wagner Luiz Gomes Zamboni",
