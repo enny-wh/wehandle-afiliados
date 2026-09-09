@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-08T14:49:54.860385+00:00",
+  "updated_at": "2026-09-09T14:56:10.818474+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 71,
+      "total": 82,
       "total_revenue": 10807.0,
-      "approved": 71,
+      "approved": 82,
       "approved_revenue": 10807.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 51,
+        "count": 62,
         "revenue": 3330.0
       },
       {
@@ -73,6 +73,18 @@
         "ticket_price": 306.0,
         "status": "Aprovado",
         "order_id": "3989QB7HEM3"
+      },
+      {
+        "name": "ANDRE MARTIN JUNIOR",
+        "email": "instruir.andre@gmail.com",
+        "cargo": "Outro",
+        "empresa": "GLOBO",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJUYL9"
       },
       {
         "name": "Ans Ferreira",
@@ -219,6 +231,18 @@
         "order_id": "3989QBG77HF"
       },
       {
+        "name": "CELIA PRADA",
+        "email": "celia.prada@rioverde.com.br",
+        "cargo": "Gerência",
+        "empresa": "RIO VERDE",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK0RH8"
+      },
+      {
         "name": "Christopher Bandeira de Oliveira Santos",
         "email": "christopher.bandeira@sincoengenharia.com.br",
         "cargo": "Analista",
@@ -301,6 +325,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBEBL1K"
+      },
+      {
+        "name": "Daniella Nunes",
+        "email": "Daniella.nunes@dhl.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "DHL LOGISTCS LTDA",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK1071"
       },
       {
         "name": "DANIELLE MARTINS VERAS DA SILVA",
@@ -543,6 +579,18 @@
         "order_id": "3989QB4MN35"
       },
       {
+        "name": "HELAINE SOUZA",
+        "email": "helaine.souza@rioverde.com.br",
+        "cargo": "Outro",
+        "empresa": "RIO VERDE ENGENHARIA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK0RU0"
+      },
+      {
         "name": "Heloisa Rodrigues",
         "email": "heloisa.rodrigues@tecban.com.br",
         "cargo": "Analista",
@@ -673,6 +721,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB74ECH"
+      },
+      {
+        "name": "JULIANA SANTOS",
+        "email": "juliana.santos@rioverde.com.br",
+        "cargo": "Outro",
+        "empresa": "RIO VERDE ENGENHARIA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK0SCG"
       },
       {
         "name": "Karla Brito",
@@ -831,6 +891,18 @@
         "order_id": "3989QB5AHG0"
       },
       {
+        "name": "MARCOS CELSO DIAS WALTER",
+        "email": "m_walter00@hotmail.com",
+        "cargo": "Outro",
+        "empresa": "Particular",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJTA4J"
+      },
+      {
         "name": "Maria Pinchimel",
         "email": "maria.pinchimel@elecnor.es",
         "cargo": "Supervisão/Coordenação",
@@ -903,6 +975,30 @@
         "order_id": "3989QB2EKJN"
       },
       {
+        "name": "Patricia Barbarini",
+        "email": "patricia.barbarini@g.globo",
+        "cargo": "Gerência",
+        "empresa": "TV Globo",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJUJ7E"
+      },
+      {
+        "name": "Pedro gdikian",
+        "email": "gdikianpedro@gmail.com",
+        "cargo": "Proprietário(a)",
+        "empresa": "PGDi Consultoria e Perícias em Segurança do Trabalho",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJTBBQ"
+      },
+      {
         "name": "Pedro Henrique Costa Dutra",
         "email": "pedro.dutra@verisure.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -949,6 +1045,30 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBEBMSB"
+      },
+      {
+        "name": "Raquel Martini",
+        "email": "raquel.malaquias@tecban.com.br",
+        "cargo": "Analista",
+        "empresa": "Tecban",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK02CS"
+      },
+      {
+        "name": "Regiane Ferreira",
+        "email": "regiane.ferreira@g.globo",
+        "cargo": "Analista",
+        "empresa": "GLOBO",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJUECE"
       },
       {
         "name": "REGINA GONÇALES",
@@ -1189,6 +1309,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBYZM4Q"
+      },
+      {
+        "name": "Vinicius Cardoso",
+        "email": "vinicius.cardoso@g.globo",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "TV Globo",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBJUGJG"
       },
       {
         "name": "Vitor Oliveira",
