@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-09T14:56:10.818474+00:00",
+  "updated_at": "2026-09-10T14:42:27.032082+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 82,
+      "total": 89,
       "total_revenue": 10807.0,
-      "approved": 82,
+      "approved": 89,
       "approved_revenue": 10807.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,13 +15,18 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 62,
+        "count": 69,
         "revenue": 3330.0
       },
       {
         "name": "Ingresso padrão antecipado individual",
         "count": 18,
         "revenue": 2002.0
+      },
+      {
+        "name": "Staff",
+        "count": 8,
+        "revenue": 0.0
       },
       {
         "name": "Ingresso individual VIP",
@@ -34,11 +39,6 @@
         "revenue": 1932.0
       },
       {
-        "name": "Staff",
-        "count": 5,
-        "revenue": 0.0
-      },
-      {
         "name": "VIP individual convidado",
         "count": 5,
         "revenue": 0.0
@@ -47,6 +47,11 @@
         "name": "Ingresso padrão antecipado para grupos (5+)",
         "count": 5,
         "revenue": 575.0
+      },
+      {
+        "name": "Palestrante",
+        "count": 1,
+        "revenue": 0.0
       }
     ],
     "participants": [
@@ -61,6 +66,18 @@
         "ticket_price": 260.0,
         "status": "Aprovado",
         "order_id": "3989QB62HAC"
+      },
+      {
+        "name": "Alexandre Azuma",
+        "email": "alexandre.azuma@outlook.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Braskem S.A",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK42VR"
       },
       {
         "name": "ANA JARANDYA",
@@ -147,6 +164,30 @@
         "order_id": "3989QB2EKJN"
       },
       {
+        "name": "BIANCA LEME DA SILVA",
+        "email": "obras@engekom.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "ENGEKOM ENGENHARIA",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK77F0"
+      },
+      {
+        "name": "Breno de Jesus Soares Rodrigues",
+        "email": "brenojesussoaresrodrigues@gmail.com",
+        "cargo": "Analista",
+        "empresa": "Satel Brasil",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK7Z1M"
+      },
+      {
         "name": "BRUNA AMARO",
         "email": "amarobruna234@gmail.com",
         "cargo": "Analista",
@@ -205,6 +246,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBA6V87"
+      },
+      {
+        "name": "CARLOS KLEBER OLIVEIRA DA SILVA",
+        "email": "kleber@engekom.com.br",
+        "cargo": "Proprietário(a)",
+        "empresa": "ENGEKOM ENGENHARIA",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK77F0"
       },
       {
         "name": "Carolina Carvalho",
@@ -519,6 +572,18 @@
         "order_id": "3989QBJ1NLT"
       },
       {
+        "name": "Fernando Oshima",
+        "email": "fernando.oshima@superdoc.com.br",
+        "cargo": "Diretoria",
+        "empresa": "SuperDoc",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK2P10"
+      },
+      {
         "name": "Gabriel Machado",
         "email": "gabriel.machado@wehandle.com.br",
         "cargo": "Analista",
@@ -735,6 +800,18 @@
         "order_id": "3989QBK0SCG"
       },
       {
+        "name": "Juliana Simões",
+        "email": "juliana.simoes@wehandle.com.br",
+        "cargo": "Diretoria",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK41QH"
+      },
+      {
         "name": "Karla Brito",
         "email": "karla.brito@demarco.com.br",
         "cargo": "Gerência",
@@ -783,6 +860,18 @@
         "order_id": "3989QB5V693"
       },
       {
+        "name": "Larissa Ribeiro",
+        "email": "larissa.martins@wehandle.com.br",
+        "cargo": "Analista",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK82HZ"
+      },
+      {
         "name": "Laura Silva Macedo",
         "email": "lsmacedo@comgas.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -819,6 +908,18 @@
         "order_id": "3989QBJ8GSR"
       },
       {
+        "name": "Lohaine Taise",
+        "email": "lohaine.taise@wehandle.com.br",
+        "cargo": "Analista",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK82HZ"
+      },
+      {
         "name": "Luan Cleber Silva Santos",
         "email": "luan_cleber13@hotmail.com",
         "cargo": "Supervisão/Coordenação",
@@ -841,6 +942,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBYYZ15"
+      },
+      {
+        "name": "Lucas Vassalo",
+        "email": "lucas@rwcm.com",
+        "cargo": "Gerência",
+        "empresa": "Riverwood",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK4K6R"
       },
       {
         "name": "LUCAS DA CRUZ MARQUES",
@@ -985,6 +1098,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBJUJ7E"
+      },
+      {
+        "name": "PAULO VINICIUS DA SILVA",
+        "email": "sst@engekom.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "ENGEKOM ENGENHARIA",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK77F0"
       },
       {
         "name": "Pedro gdikian",
@@ -1153,6 +1278,18 @@
         "ticket_price": 144.0,
         "status": "Aprovado",
         "order_id": "3989QBJ1KMT"
+      },
+      {
+        "name": "Suelen Vieira",
+        "email": "suelen.vieira@wehandle.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK82HZ"
       },
       {
         "name": "Sulamita Cristina",
