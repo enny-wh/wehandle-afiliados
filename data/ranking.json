@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-10T14:42:27.032082+00:00",
+  "updated_at": "2026-09-11T14:44:20.238672+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 89,
+      "total": 100,
       "total_revenue": 10807.0,
-      "approved": 89,
+      "approved": 100,
       "approved_revenue": 10807.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,8 +15,13 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 69,
+        "count": 73,
         "revenue": 3330.0
+      },
+      {
+        "name": "Staff",
+        "count": 21,
+        "revenue": 0.0
       },
       {
         "name": "Ingresso padrão antecipado individual",
@@ -24,8 +29,13 @@
         "revenue": 2002.0
       },
       {
-        "name": "Staff",
-        "count": 8,
+        "name": "Convidado - Ingresso Padrão",
+        "count": 12,
+        "revenue": 0.0
+      },
+      {
+        "name": "Palestrante",
+        "count": 10,
         "revenue": 0.0
       },
       {
@@ -47,11 +57,6 @@
         "name": "Ingresso padrão antecipado para grupos (5+)",
         "count": 5,
         "revenue": 575.0
-      },
-      {
-        "name": "Palestrante",
-        "count": 1,
-        "revenue": 0.0
       }
     ],
     "participants": [
@@ -66,6 +71,54 @@
         "ticket_price": 260.0,
         "status": "Aprovado",
         "order_id": "3989QB62HAC"
+      },
+      {
+        "name": "Adriana Benavides",
+        "email": "adriana.benavides@siemens.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Siemens",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKAVZT"
+      },
+      {
+        "name": "Adriano Dutra",
+        "email": "adriano.dutra@wehandle.com.br",
+        "cargo": "Gerência",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKF90R"
+      },
+      {
+        "name": "Afonso Ferragut",
+        "email": "afonso.ferragut@wehandle.com.br",
+        "cargo": "Gerência",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKB606"
+      },
+      {
+        "name": "Albert Silva",
+        "email": "albert.silva@ext.wehandle.com.br",
+        "cargo": "Analista",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK8D1C"
       },
       {
         "name": "Alexandre Azuma",
@@ -104,6 +157,18 @@
         "order_id": "3989QBJUYL9"
       },
       {
+        "name": "Andressa Nozue",
+        "email": "andressa.nozue@wehandle.com.br",
+        "cargo": "Diretoria",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK8D1C"
+      },
+      {
         "name": "Ans Ferreira",
         "email": "apmercatellif@hotmail.com",
         "cargo": "Gerência",
@@ -138,6 +203,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBJZ05R"
+      },
+      {
+        "name": "Augusto Macedo",
+        "email": "augusto.macedo@wehandle.com.br",
+        "cargo": "Diretoria",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKF90R"
       },
       {
         "name": "Beatriz Hipolito",
@@ -210,6 +287,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QB7TKCL"
+      },
+      {
+        "name": "Caio Sagae",
+        "email": "caio.sagae@wehandle.com.br",
+        "cargo": "Diretoria",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKF90R"
       },
       {
         "name": "Camila Alves Dos Santos",
@@ -416,6 +505,18 @@
         "order_id": "3989QB61JJQ"
       },
       {
+        "name": "Diego Cavichioli",
+        "email": "diego.cavichioli@wehandle.com.br",
+        "cargo": "Diretoria",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKF90R"
+      },
+      {
         "name": "Dilcea Brandao",
         "email": "dilcea.brandao@telefonica.com",
         "cargo": "Outro",
@@ -450,6 +551,30 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB4TCM2"
+      },
+      {
+        "name": "Eduardo Fernandes",
+        "email": "eduardo.fernandes@siemens.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Siemens",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKAVZT"
+      },
+      {
+        "name": "Elder Macedo",
+        "email": "elder.macedo.em1@csn.com.br",
+        "cargo": "Analista",
+        "empresa": "CSN",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKAPTH"
       },
       {
         "name": "ELIZENIR VALENTIM DE ARAUJO",
@@ -524,6 +649,18 @@
         "order_id": "3989QBHPP9R"
       },
       {
+        "name": "Fabio Alves",
+        "email": "fabio.alves@csn.com.br",
+        "cargo": "Analista",
+        "empresa": "CSN",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKAPTH"
+      },
+      {
         "name": "Felipe Vianini",
         "email": "felipe.fvianini@hotmail.com",
         "cargo": "Gerência",
@@ -572,6 +709,18 @@
         "order_id": "3989QBJ1NLT"
       },
       {
+        "name": "Fernanda Oliveira da Silva",
+        "email": "fernandaoliv574@gmail.com",
+        "cargo": "Proprietário(a)",
+        "empresa": "Cubo Engenharia",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK8S11"
+      },
+      {
         "name": "Fernando Oshima",
         "email": "fernando.oshima@superdoc.com.br",
         "cargo": "Diretoria",
@@ -584,6 +733,42 @@
         "order_id": "3989QBK2P10"
       },
       {
+        "name": "Francisco Araujo",
+        "email": "francisco.araujo@siemens.com",
+        "cargo": "Analista",
+        "empresa": "Siemens",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKAVZT"
+      },
+      {
+        "name": "Frank Lombardi",
+        "email": "frank.lombardi@siemens.com",
+        "cargo": "Gerência",
+        "empresa": "Siemens",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKAVZT"
+      },
+      {
+        "name": "Frederico Silvestre Leôncio",
+        "email": "frederico.leoncio@copasa.com.br",
+        "cargo": "Analista",
+        "empresa": "COPASA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK8BLQ"
+      },
+      {
         "name": "Gabriel Machado",
         "email": "gabriel.machado@wehandle.com.br",
         "cargo": "Analista",
@@ -594,6 +779,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBJZ05R"
+      },
+      {
+        "name": "Gabriel Dias",
+        "email": "gabriel.dias@wehandle.com.br",
+        "cargo": "Analista",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKA3YB"
       },
       {
         "name": "Gabriel Stefanie Gomes",
@@ -690,6 +887,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QBFLJDQ"
+      },
+      {
+        "name": "Hugo Penna",
+        "email": "hugo.penna@wehandle.com.br",
+        "cargo": "Gerência",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKF90R"
       },
       {
         "name": "Isabela Léporo",
@@ -812,6 +1021,18 @@
         "order_id": "3989QBK41QH"
       },
       {
+        "name": "Juliana Simões",
+        "email": "juliana.simoes@wehandle.com.br",
+        "cargo": "Diretoria",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKF90R"
+      },
+      {
         "name": "Karla Brito",
         "email": "karla.brito@demarco.com.br",
         "cargo": "Gerência",
@@ -822,6 +1043,18 @@
         "ticket_price": 306.0,
         "status": "Aprovado",
         "order_id": "3989QBFVPD0"
+      },
+      {
+        "name": "Karoline Francisco",
+        "email": "karoline.francisco@csn.com.br",
+        "cargo": "Analista",
+        "empresa": "CSN",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKAPTH"
       },
       {
         "name": "Kiara Santos Santana",
@@ -846,6 +1079,18 @@
         "ticket_price": 230.0,
         "status": "Aprovado",
         "order_id": "3989QB3NT00"
+      },
+      {
+        "name": "Lara Esteves",
+        "email": "lara.esteves@wehandle.com.br",
+        "cargo": "Outro",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKB606"
       },
       {
         "name": "Larissa Monteiro",
@@ -980,6 +1225,18 @@
         "order_id": "3989QBYZH19"
       },
       {
+        "name": "Luiz Lauria",
+        "email": "luiz.lauria@wehandle.com.br",
+        "cargo": "Gerência",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKA3YB"
+      },
+      {
         "name": "Luiza Castro",
         "email": "luiza.castro@demarco.com.br",
         "cargo": "Outro",
@@ -1002,6 +1259,42 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Marcelo Mendes",
+        "email": "marcelo.mendes@wehandle.com.br",
+        "cargo": "Gerência",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKB606"
+      },
+      {
+        "name": "Marcio Dantas",
+        "email": "marcio.dantas@wehandle.com.br",
+        "cargo": "Diretoria",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK8D1C"
+      },
+      {
+        "name": "Marcio Godoi",
+        "email": "marcio.godoi@wehandle.com.br",
+        "cargo": "Diretoria",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKF90R"
       },
       {
         "name": "MARCOS CELSO DIAS WALTER",
@@ -1038,6 +1331,30 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBYC2EL"
+      },
+      {
+        "name": "Maryana Alves",
+        "email": "maryana.alves@wehandle.com.br",
+        "cargo": "Gerência",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKB606"
+      },
+      {
+        "name": "Mayara Lima",
+        "email": "mayaralima@siemens.com",
+        "cargo": "Diretoria",
+        "empresa": "Siemens",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKAVZT"
       },
       {
         "name": "Meygam Souza",
@@ -1100,6 +1417,18 @@
         "order_id": "3989QBJUJ7E"
       },
       {
+        "name": "Patricia Alfenas",
+        "email": "patricia.alfenas@csn.com.br",
+        "cargo": "Gerência",
+        "empresa": "CSN",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKAPTH"
+      },
+      {
         "name": "PAULO VINICIUS DA SILVA",
         "email": "sst@engekom.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -1124,6 +1453,30 @@
         "order_id": "3989QBJTBBQ"
       },
       {
+        "name": "Pedro Santos",
+        "email": "pedro.santos@wehandle.com.br",
+        "cargo": "Diretoria",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK8D1C"
+      },
+      {
+        "name": "Pedro Marques",
+        "email": "pedro.marques@wehandle.com.br",
+        "cargo": "Analista",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKA3YB"
+      },
+      {
         "name": "Pedro Henrique Costa Dutra",
         "email": "pedro.dutra@verisure.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -1134,6 +1487,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QBFLJDQ"
+      },
+      {
+        "name": "Phelipe Labriola",
+        "email": "phelipe.labriola@siemens.com",
+        "cargo": "Analista",
+        "empresa": "Siemens",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKAVZT"
       },
       {
         "name": "RAFAELA OLIVEIRA DE JESUS",
@@ -1208,6 +1573,18 @@
         "order_id": "3989QB343NC"
       },
       {
+        "name": "Renan Schiavinoto",
+        "email": "renan.schiavinoto@siemens.com",
+        "cargo": "Analista",
+        "empresa": "Siemens",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKAVZT"
+      },
+      {
         "name": "Renato Bussamra Sanchez",
         "email": "renato.sanchez@sincoengenharia.com.br",
         "cargo": "Diretoria",
@@ -1232,6 +1609,18 @@
         "order_id": "3989QB343NC"
       },
       {
+        "name": "Rodrigo Faustini",
+        "email": "rodrigo.faustini@wehandle.com.br",
+        "cargo": "Proprietário(a)",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKF90R"
+      },
+      {
         "name": "Rodrigo Siqueira Miguel",
         "email": "rodrigo.smiguel@verisure.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -1254,6 +1643,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBG0P3N"
+      },
+      {
+        "name": "Ruy Correa",
+        "email": "ruy.correa@siemens.com",
+        "cargo": "Diretoria",
+        "empresa": "Siemens",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKAVZT"
       },
       {
         "name": "Samuel Melo Silva",
@@ -1340,6 +1741,18 @@
         "order_id": "3989QB62HAC"
       },
       {
+        "name": "Tamiris Dias",
+        "email": "tamiris.dias@wehandle.com.br",
+        "cargo": "Gerência",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKA3YB"
+      },
+      {
         "name": "TATHIANA SANDE",
         "email": "tathiana.sande@ceecbrasil.com.br",
         "cargo": "Gerência",
@@ -1364,6 +1777,18 @@
         "order_id": "3989QB603CN"
       },
       {
+        "name": "Telma Muniz Apolonio",
+        "email": "telma.muniz@huberdobrasil.com.br",
+        "cargo": "Outro",
+        "empresa": "Huber do Brasil Soluções em Tratamento de Água e Efluentes Ltda",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK8MUL"
+      },
+      {
         "name": "Thais Arcaide Carneiro",
         "email": "thais.carneiro@americasmed.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -1386,6 +1811,30 @@
         "ticket_price": 336.0,
         "status": "Aprovado",
         "order_id": "3989QBACM7K"
+      },
+      {
+        "name": "Thiago Fragoso",
+        "email": "thigofra@gmail.com",
+        "cargo": "Proprietário(a)",
+        "empresa": "Cubo engenharia e manutenção",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBK8CCS"
+      },
+      {
+        "name": "Tiago Marson",
+        "email": "tiago.marson@wehandle.com.br",
+        "cargo": "Gerência",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKF9PQ"
       },
       {
         "name": "VANDIER REIS SILVA",
@@ -1482,6 +1931,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB5CFQM"
+      },
+      {
+        "name": "Yukio Yokota",
+        "email": "yukio.yokota@wehandle.com.br",
+        "cargo": "Gerência",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKF90R"
       },
       {
         "name": "Yuri Enny",
