@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-11T14:44:20.238672+00:00",
+  "updated_at": "2026-09-12T13:48:35.627821+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 100,
+      "total": 108,
       "total_revenue": 10807.0,
-      "approved": 100,
+      "approved": 108,
       "approved_revenue": 10807.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 73,
+        "count": 82,
         "revenue": 3330.0
       },
       {
@@ -253,6 +253,18 @@
         "order_id": "3989QBK77F0"
       },
       {
+        "name": "BIANCA SOUZA",
+        "email": "biancafrancielitsouza@gmail.com",
+        "cargo": "Analista",
+        "empresa": "Brio incorporadora",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKYC9R"
+      },
+      {
         "name": "Breno de Jesus Soares Rodrigues",
         "email": "brenojesussoaresrodrigues@gmail.com",
         "cargo": "Analista",
@@ -275,6 +287,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBB5YLD"
+      },
+      {
+        "name": "Bruna Pacheco Batista",
+        "email": "bruna.batista@brioincorporadora.com.br",
+        "cargo": "Gerência",
+        "empresa": "Brio Incorporadora",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKY1FZ"
       },
       {
         "name": "Bruno Araújo",
@@ -457,6 +481,18 @@
         "order_id": "3989QB5CFQM"
       },
       {
+        "name": "Daniela Oliveira Magdalena",
+        "email": "Danioliveira_21@hotmail.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "GCF GCFFacilities",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKYSHH"
+      },
+      {
         "name": "Daniele Ribeiro",
         "email": "daniele.ribeiro@linde.com",
         "cargo": "Outro",
@@ -625,6 +661,18 @@
         "order_id": "3989QB1Z69B"
       },
       {
+        "name": "Evelim Regina Silva",
+        "email": "evelim.silva@controlid.com.br",
+        "cargo": "Analista",
+        "empresa": "ControliD",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKY7FE"
+      },
+      {
         "name": "Evelin Andressa Alves Soares Corsani",
         "email": "evelin.soares@sistemaescudo.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -733,6 +781,30 @@
         "order_id": "3989QBK2P10"
       },
       {
+        "name": "Fernando Fortes Teixeira",
+        "email": "fernandoft@gmail.com",
+        "cargo": "Diretoria",
+        "empresa": "brio incorporadora",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKYAGS"
+      },
+      {
+        "name": "Flávia Bessa",
+        "email": "flavia.bessa@obrasoft.com.br",
+        "cargo": "Gerência",
+        "empresa": "ObraSoft",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKHJ92"
+      },
+      {
         "name": "Francisco Araujo",
         "email": "francisco.araujo@siemens.com",
         "cargo": "Analista",
@@ -803,6 +875,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBAFG82"
+      },
+      {
+        "name": "Gabriela Lambert Negro",
+        "email": "gabriela.negro@totvs.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "TOTVS S/A",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKHP1A"
       },
       {
         "name": "Guilherme Salome",
@@ -1139,6 +1223,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB8NUEY"
+      },
+      {
+        "name": "LEONARDO BASAGLIA",
+        "email": "leonardo.basaglia@brioincorporadora.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "BRIO INCORPORADORA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKY5NA"
       },
       {
         "name": "Lilian Nucci",
@@ -1499,6 +1595,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKAVZT"
+      },
+      {
+        "name": "Priscila Murakami",
+        "email": "priscila.murakami@totvs.com.br",
+        "cargo": "Analista",
+        "empresa": "TOTVS S/A",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKHP1A"
       },
       {
         "name": "RAFAELA OLIVEIRA DE JESUS",
