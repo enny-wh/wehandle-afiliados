@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-13T14:44:39.418045+00:00",
+  "updated_at": "2026-09-14T16:43:07.618118+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 108,
+      "total": 120,
       "total_revenue": 10807.0,
-      "approved": 108,
+      "approved": 120,
       "approved_revenue": 10807.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 82,
+        "count": 94,
         "revenue": 3330.0
       },
       {
@@ -83,6 +83,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKAVZT"
+      },
+      {
+        "name": "Adriana Macedo de Castro",
+        "email": "adriana.castro@peers.com.br",
+        "cargo": "Gerência",
+        "empresa": "Peers",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBL0AZM"
       },
       {
         "name": "Adriano Dutra",
@@ -313,6 +325,18 @@
         "order_id": "3989QB7TKCL"
       },
       {
+        "name": "Bruno Soares",
+        "email": "bruno.soares@gedanken.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Gedanken",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBL0FH7"
+      },
+      {
         "name": "Caio Sagae",
         "email": "caio.sagae@wehandle.com.br",
         "cargo": "Diretoria",
@@ -335,6 +359,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBJ6C3P"
+      },
+      {
+        "name": "Carina Miyamoto",
+        "email": "carina.miyamoto@abimed.org.br",
+        "cargo": "Gerência",
+        "empresa": "ABIMED",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBL067V"
       },
       {
         "name": "CARLA MARIANO",
@@ -457,6 +493,18 @@
         "order_id": "3989QBJ6QB4"
       },
       {
+        "name": "Daniel Velo",
+        "email": "danielvelo@yahoo.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "GWM Brasil",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKVK0E"
+      },
+      {
         "name": "Daniel Goulart Teixeira Goulart Teixeira",
         "email": "daniel.goulart@americasmed.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -539,6 +587,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB61JJQ"
+      },
+      {
+        "name": "Debora Franco",
+        "email": "debora.psilva@telefonica.com",
+        "cargo": "Analista",
+        "empresa": "Telefônica",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKVZRA"
       },
       {
         "name": "Diego Cavichioli",
@@ -683,6 +743,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBJ8CCN"
+      },
+      {
+        "name": "Evelyn Castro",
+        "email": "evelyn.castro@gedanken.com.br",
+        "cargo": "Analista",
+        "empresa": "Gedanken",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBL0Y3A"
       },
       {
         "name": "Fábio Spigolon",
@@ -865,6 +937,18 @@
         "order_id": "3989QBKA3YB"
       },
       {
+        "name": "Gabriel Garcia",
+        "email": "gabriel.garcia@gedanken.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Gedanken",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBL0GBV"
+      },
+      {
         "name": "Gabriel Stefanie Gomes",
         "email": "gbsgoliveira@gmail.com",
         "cargo": "Analista",
@@ -887,6 +971,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKHP1A"
+      },
+      {
+        "name": "Gaspar Carvalho",
+        "email": "gaspar.carvalho@gedanken.com.br",
+        "cargo": "Analista",
+        "empresa": "Gedanken",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBL0YFZ"
       },
       {
         "name": "Guilherme Salome",
@@ -1045,6 +1141,18 @@
         "order_id": "3989QB5U81P"
       },
       {
+        "name": "Joao Costa",
+        "email": "joao.costa@gedanken.com.br",
+        "cargo": "Analista",
+        "empresa": "Gedanken",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBL0GTN"
+      },
+      {
         "name": "JOELSA VIANA SERAFIM",
         "email": "joelsaviana@consbem.com.br",
         "cargo": "Analista",
@@ -1079,6 +1187,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB74ECH"
+      },
+      {
+        "name": "JUCINEIA MANDELI DE OLIVEIRA",
+        "email": "jucineia16@gmail.com",
+        "cargo": "Analista",
+        "empresa": "Vivo",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBKVTL4"
       },
       {
         "name": "JULIANA SANTOS",
@@ -1249,6 +1369,18 @@
         "order_id": "3989QBJ8GSR"
       },
       {
+        "name": "Lilian Perez",
+        "email": "lilian.perez@gedanken.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Gedanken",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBL0HER"
+      },
+      {
         "name": "Lohaine Taise",
         "email": "lohaine.taise@wehandle.com.br",
         "cargo": "Analista",
@@ -1295,6 +1427,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBK4K6R"
+      },
+      {
+        "name": "LUCAS URBANECK",
+        "email": "lurbaneck@acciona.com",
+        "cargo": "Gerência",
+        "empresa": "Acciona Construção",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBL1HJJ"
       },
       {
         "name": "LUCAS DA CRUZ MARQUES",
