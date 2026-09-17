@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-16T15:13:33.884158+00:00",
+  "updated_at": "2026-09-17T15:22:33.052591+00:00",
   "event_id": "3449146",
   "total_tickets": 7,
   "total_revenue": 2112.0,
   "summary": {
     "orders": {
-      "total": 155,
+      "total": 172,
       "total_revenue": 12823.0,
-      "approved": 155,
+      "approved": 172,
       "approved_revenue": 12823.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,12 +15,17 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 120,
+        "count": 142,
         "revenue": 3762.0
       },
       {
         "name": "Palestrante",
         "count": 30,
+        "revenue": 0.0
+      },
+      {
+        "name": "Convidado - Ingresso Padrão",
+        "count": 22,
         "revenue": 0.0
       },
       {
@@ -32,11 +37,6 @@
         "name": "Ingresso padrão antecipado individual",
         "count": 18,
         "revenue": 2002.0
-      },
-      {
-        "name": "Convidado - Ingresso Padrão",
-        "count": 17,
-        "revenue": 0.0
       },
       {
         "name": "Ingresso padrão para grupos (5 ou mais)",
@@ -196,6 +196,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBL9NMM"
+      },
+      {
+        "name": "Ana Carolina Victorino",
+        "email": "ahoffmann@sabesp.com.br",
+        "cargo": "Gerência",
+        "empresa": "sabesp",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLGYRS"
       },
       {
         "name": "Anderson Domingues",
@@ -762,6 +774,18 @@
         "order_id": "3989QBKF90R"
       },
       {
+        "name": "Diego Silva Santos",
+        "email": "diego.santos@gruposouzalima.com",
+        "cargo": "Gerência",
+        "empresa": "Souza Lima",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLFAH0"
+      },
+      {
         "name": "Dilcea Brandao",
         "email": "dilcea.brandao@telefonica.com",
         "cargo": "Outro",
@@ -834,6 +858,18 @@
         "order_id": "3989QBKAPTH"
       },
       {
+        "name": "Elias Florêncio",
+        "email": "elias.florencio@gruposouzalima.com",
+        "cargo": "Gerência",
+        "empresa": "Souza Lima",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLFAH0"
+      },
+      {
         "name": "Eliseu Junior",
         "email": "eliseu.junior@igua.com.br",
         "cargo": "Analista",
@@ -880,6 +916,18 @@
         "ticket_price": 391.0,
         "status": "Aprovado",
         "order_id": "3989QB4J357"
+      },
+      {
+        "name": "Emerson Rodrigues Nantes",
+        "email": "emerson@ayoshii.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "A.Yoshii General Construction",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLFP7Y"
       },
       {
         "name": "ERIK FERNANDO CARRAPATO",
@@ -990,6 +1038,18 @@
         "order_id": "3989QBKAPTH"
       },
       {
+        "name": "Fabio De Biase",
+        "email": "fabio.biase@piposaude.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Pipo Saúde",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLG6Y7"
+      },
+      {
         "name": "Felipe Vianini",
         "email": "felipe.fvianini@hotmail.com",
         "cargo": "Gerência",
@@ -1084,6 +1144,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKYAGS"
+      },
+      {
+        "name": "Fernando Modesto",
+        "email": "fernando.modesto@arcelormittal.com",
+        "cargo": "Analista",
+        "empresa": "ArcelorMittal Pecém",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLG6Q6"
       },
       {
         "name": "Flávia Bessa",
@@ -1230,6 +1302,18 @@
         "order_id": "3989QBL0GBV"
       },
       {
+        "name": "GABRIEL PRATES",
+        "email": "gabriel.prates@temon.com.br",
+        "cargo": "Diretoria",
+        "empresa": "TEMON TÉCNICA DE MONTAGENS E CONSTRUÇÕES LTDA",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLG01Z"
+      },
+      {
         "name": "Gabriel Stefanie Gomes",
         "email": "gbsgoliveira@gmail.com",
         "cargo": "Analista",
@@ -1264,6 +1348,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBL38PG"
+      },
+      {
+        "name": "Gabriele Malta",
+        "email": "gabriele.correia@siemens.com",
+        "cargo": "Gerência",
+        "empresa": "Siemens",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLLDY2"
       },
       {
         "name": "Gaspar Carvalho",
@@ -1350,6 +1446,18 @@
         "order_id": "3989QBL50GJ"
       },
       {
+        "name": "Gustavo Concon",
+        "email": "gconcon@gmail.com",
+        "cargo": "Diretoria",
+        "empresa": "CI&T",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLJNNF"
+      },
+      {
         "name": "Gustavo Henrique Guimarães de Souza",
         "email": "gustavo.sousa@consorciosaneamento.com.br",
         "cargo": "Analista",
@@ -1410,6 +1518,18 @@
         "order_id": "3989QBL2TE8"
       },
       {
+        "name": "Henrique de Faria",
+        "email": "henrique@minexx.com.br",
+        "cargo": "Proprietário(a)",
+        "empresa": "Minexx",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLF9MA"
+      },
+      {
         "name": "Herbert Freitas de Oliveira",
         "email": "herbert.oliveira@verisure.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -1444,6 +1564,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QB7TKCL"
+      },
+      {
+        "name": "Isabela Mattede Uyeno",
+        "email": "isabelamattede@gmail.com",
+        "cargo": "Analista",
+        "empresa": "ArcelorMittal",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLG5YM"
       },
       {
         "name": "Jaqueline Maciel",
@@ -1566,6 +1698,18 @@
         "order_id": "3989QBFVPD0"
       },
       {
+        "name": "JOSEPH EMERCIKA CHOISY",
+        "email": "JOSEPH.CHOISY@ACTDIGITAL.COM",
+        "cargo": "Analista",
+        "empresa": "Act consultoria em tecnologia Ltda",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLHRTS"
+      },
+      {
         "name": "Juan Patrone",
         "email": "juan.patrone@tkelevator.com",
         "cargo": "Supervisão/Coordenação",
@@ -1638,6 +1782,18 @@
         "order_id": "3989QBL6ZUE"
       },
       {
+        "name": "Juliana Carvalho",
+        "email": "juliana.silva@ageplan.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Ageplan Engenharia - Construções LTDA",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLKA7N"
+      },
+      {
         "name": "Karla Brito",
         "email": "karla.brito@demarco.com.br",
         "cargo": "Gerência",
@@ -1684,6 +1840,18 @@
         "ticket_price": 230.0,
         "status": "Aprovado",
         "order_id": "3989QB3NT00"
+      },
+      {
+        "name": "Lais Genesini",
+        "email": "lais.genesini@hotmail.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Suleste Ambiental",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLHDR3"
       },
       {
         "name": "Lara Esteves",
@@ -1744,6 +1912,30 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB8NUEY"
+      },
+      {
+        "name": "Leandro Pederiva Celestrino",
+        "email": "leandro.pederiva@ayoshii.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "A.Yoshii General Construction",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLFP7Y"
+      },
+      {
+        "name": "LEANDRO OLIVEIRA",
+        "email": "leandro.oliveira@temon.com.br",
+        "cargo": "Gerência",
+        "empresa": "TEMON TÉCNICA DE MONTAGENS E CONSTRUÇÕES LTDA",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLG01Z"
       },
       {
         "name": "LEONARDO BASAGLIA",
@@ -1876,6 +2068,18 @@
         "ticket_price": 306.0,
         "status": "Aprovado",
         "order_id": "3989QB7HEM3"
+      },
+      {
+        "name": "Luciana Alves",
+        "email": "luciana.alves@siemens.com",
+        "cargo": "Outro",
+        "empresa": "Siemens",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLLDY2"
       },
       {
         "name": "Luckas Reis",
@@ -2094,6 +2298,18 @@
         "order_id": "3989QBJTA4J"
       },
       {
+        "name": "Marcos Paolucci",
+        "email": "marcos@minexx.com.br",
+        "cargo": "Proprietário(a)",
+        "empresa": "Minexx",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLF9MA"
+      },
+      {
         "name": "Maria Pinchimel",
         "email": "maria.pinchimel@elecnor.es",
         "cargo": "Supervisão/Coordenação",
@@ -2116,6 +2332,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLE3P4"
+      },
+      {
+        "name": "MARIA VITORIA SILVA CABRAL",
+        "email": "maria.cabral@actdigital.com",
+        "cargo": "Analista",
+        "empresa": "Act consultoria em Tecnologia Ltda",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLHRTS"
       },
       {
         "name": "Mariana Minatel",
@@ -2176,6 +2404,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKAVZT"
+      },
+      {
+        "name": "Mayara Lima",
+        "email": "mayaralima@siemens.com",
+        "cargo": "Gerência",
+        "empresa": "Siemens",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLLDY2"
       },
       {
         "name": "Mayla Felici",
@@ -2260,6 +2500,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKAPTH"
+      },
+      {
+        "name": "PAULO ROBERTO FILHO",
+        "email": "paulorgf@gmail.com",
+        "cargo": "Gerência",
+        "empresa": "Ageplan Engenharia",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLK653"
       },
       {
         "name": "Paulo Sérgio Pereira de Oliveira",
@@ -2358,6 +2610,18 @@
         "order_id": "3989QBKHP1A"
       },
       {
+        "name": "Priscila Bonassa Tsunoda",
+        "email": "priscila.tsunoda@actdigital.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Act consultoria em Tecnologia Ltda",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLHRTS"
+      },
+      {
         "name": "Rafael Pompeu",
         "email": "rafael.andreucci@clara.team",
         "cargo": "Gerência",
@@ -2392,6 +2656,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBJZ05R"
+      },
+      {
+        "name": "RAFAELA ARRIGONI CINTRA",
+        "email": "rafaela.a.cintra@arcelormittal.com",
+        "cargo": "Analista",
+        "empresa": "ARCELORMITTAL TUBARÃO",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLG9ES"
       },
       {
         "name": "Raquel Hinno",
@@ -2476,6 +2752,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Robert Valandro",
+        "email": "robert.valandro@effico.com.br",
+        "cargo": "Gerência",
+        "empresa": "Effico Saneamento Ltda",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLYYEA"
       },
       {
         "name": "RODRIGO LOPEZ",
@@ -2658,6 +2946,18 @@
         "order_id": "3989QB62HAC"
       },
       {
+        "name": "Talita Carolina",
+        "email": "talita.souza@siemens.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Siemens",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLLDY2"
+      },
+      {
         "name": "Tamiris Dias",
         "email": "tamiris.dias@wehandle.com.br",
         "cargo": "Gerência",
@@ -2718,6 +3018,18 @@
         "order_id": "3989QBB5LH9"
       },
       {
+        "name": "Thamyres Delgado",
+        "email": "thamyres-fonseca-delgado@siemens.com",
+        "cargo": "Outro",
+        "empresa": "Siemens",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLLDY2"
+      },
+      {
         "name": "Thaynná Peixoto",
         "email": "thaynna.peixoto@elecnor.es",
         "cargo": "Supervisão/Coordenação",
@@ -2776,6 +3088,18 @@
         "ticket_price": 198.0,
         "status": "Aprovado",
         "order_id": "3989QBL50GJ"
+      },
+      {
+        "name": "Tomás Giribaldi",
+        "email": "tomas.giribaldi@ageplan.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Ageplan",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLK6UN"
       },
       {
         "name": "Uirá Menezes",
