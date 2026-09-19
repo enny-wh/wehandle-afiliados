@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-18T14:42:36.535178+00:00",
+  "updated_at": "2026-09-19T14:03:42.516576+00:00",
   "event_id": "3449146",
   "total_tickets": 8,
   "total_revenue": 2328.0,
   "summary": {
     "orders": {
-      "total": 185,
+      "total": 188,
       "total_revenue": 14803.0,
-      "approved": 185,
+      "approved": 188,
       "approved_revenue": 14803.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 150,
+        "count": 153,
         "revenue": 4158.0
       },
       {
@@ -2562,6 +2562,18 @@
         "order_id": "3989QBL8QNZ"
       },
       {
+        "name": "Mariana Ferreira",
+        "email": "mariana.ferreira@nexta.com.br",
+        "cargo": "Analista",
+        "empresa": "Nexta - Grupo Argenta (Petronas)",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLST5A"
+      },
+      {
         "name": "Mariana Minatel Troly",
         "email": "mariana.troly@citrosuco.com",
         "cargo": "Outro",
@@ -2692,6 +2704,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLMZKD"
+      },
+      {
+        "name": "Nathalia Soares Fernandes",
+        "email": "ns.fernandes@ppc.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "PP&C Auditores",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBM05LJ"
       },
       {
         "name": "Patricia Barbarini",
@@ -3376,6 +3400,18 @@
         "ticket_price": 336.0,
         "status": "Aprovado",
         "order_id": "3989QBC04UJ"
+      },
+      {
+        "name": "Vanessa Rocha",
+        "email": "vanessa.s.rocha@rededor.com.br",
+        "cargo": "Gerência",
+        "empresa": "Rede D'or",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLV5JE"
       },
       {
         "name": "Veronice Campos Freires",
