@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-21T16:42:51.300311+00:00",
+  "updated_at": "2026-09-22T15:17:45.703534+00:00",
   "event_id": "3449146",
   "total_tickets": 8,
   "total_revenue": 2328.0,
   "summary": {
     "orders": {
-      "total": 190,
+      "total": 204,
       "total_revenue": 14803.0,
-      "approved": 190,
+      "approved": 204,
       "approved_revenue": 14803.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,22 +15,22 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 154,
+        "count": 169,
         "revenue": 4158.0
       },
       {
         "name": "Palestrante",
-        "count": 32,
+        "count": 33,
         "revenue": 0.0
       },
       {
         "name": "Convidado - Ingresso Padrão",
-        "count": 29,
+        "count": 31,
         "revenue": 0.0
       },
       {
         "name": "Staff",
-        "count": 22,
+        "count": 24,
         "revenue": 0.0
       },
       {
@@ -52,6 +52,11 @@
         "name": "Ingresso VIP antecipado individual",
         "count": 6,
         "revenue": 1932.0
+      },
+      {
+        "name": "Artista",
+        "count": 5,
+        "revenue": 0.0
       },
       {
         "name": "VIP individual convidado",
@@ -174,6 +179,18 @@
         "order_id": "3989QBL2A2H"
       },
       {
+        "name": "Alexssandro Rodrigues",
+        "email": "ximbicatuba@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Jazz e Risos",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Artista",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMHVL7"
+      },
+      {
         "name": "Aline Petinga",
         "email": "alacerda@deloitte.com",
         "cargo": "Gerência",
@@ -232,6 +249,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLGYRS"
+      },
+      {
+        "name": "Ana Clara Lopes",
+        "email": "analopes1530@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Tako",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMMQB9"
       },
       {
         "name": "Anderson Domingues",
@@ -510,6 +539,18 @@
         "order_id": "3989QBLS6K6"
       },
       {
+        "name": "Bruno Santos",
+        "email": "bruno.santos@clara.team",
+        "cargo": "Analista",
+        "empresa": "Clara",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMY9RE"
+      },
+      {
         "name": "Caio Sagae",
         "email": "caio.sagae@wehandle.com.br",
         "cargo": "Diretoria",
@@ -702,6 +743,18 @@
         "order_id": "3989QBKVK0E"
       },
       {
+        "name": "Daniel Pavini",
+        "email": "falecompavini@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Jazz e Risos",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Artista",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMHVL7"
+      },
+      {
         "name": "Daniel Goulart Teixeira Goulart Teixeira",
         "email": "daniel.goulart@americasmed.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -736,6 +789,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKYSHH"
+      },
+      {
+        "name": "Daniela Datrino",
+        "email": "danielacamargo@suzano.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Suzano",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMGDCM"
       },
       {
         "name": "Daniele Ribeiro",
@@ -808,6 +873,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB61JJQ"
+      },
+      {
+        "name": "Danilo Hernandez",
+        "email": "danilo.hernandez@clara.team",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Clara",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMYC62"
       },
       {
         "name": "Debora Franco",
@@ -916,6 +993,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLA00J"
+      },
+      {
+        "name": "Eduardo Vieira",
+        "email": "eduardo.vieira@clara.team",
+        "cargo": "Gerência",
+        "empresa": "Clara",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMYC62"
       },
       {
         "name": "Elder Macedo",
@@ -1120,6 +1209,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLG6Y7"
+      },
+      {
+        "name": "Fabio Tavares",
+        "email": "fabio.tavares@wehandle.com.br",
+        "cargo": "Gerência",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMGFA1"
       },
       {
         "name": "Felipe Vianini",
@@ -1458,6 +1559,18 @@
         "order_id": "3989QBL38PG"
       },
       {
+        "name": "Gabriela Ibrahim",
+        "email": "gabriela.ibrahim@clara.team",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Clara",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMY9RE"
+      },
+      {
         "name": "Gabriele Malta",
         "email": "gabriele.correia@siemens.com",
         "cargo": "Gerência",
@@ -1468,6 +1581,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLLDY2"
+      },
+      {
+        "name": "Gabriele Silva",
+        "email": "gabriele.silva@wehandle.com.br",
+        "cargo": "Analista",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMGFA1"
       },
       {
         "name": "Gaspar Carvalho",
@@ -1672,6 +1797,30 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKF90R"
+      },
+      {
+        "name": "Igor Riberti",
+        "email": "igor.riberti@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Jazz e Risos",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Artista",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMHVL7"
+      },
+      {
+        "name": "Igor Rocha",
+        "email": "igor.rocha@clara.team",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Clara",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMY9RE"
       },
       {
         "name": "Isabela Léporo",
@@ -1998,6 +2147,18 @@
         "order_id": "3989QBLPP24"
       },
       {
+        "name": "Juliana Bizzo",
+        "email": "juliana.bizzo@8arm.io",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Tako",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMM57N"
+      },
+      {
         "name": "Juliane Aparecida Pereira",
         "email": "juliane.pereira@ultragaz.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -2190,6 +2351,18 @@
         "order_id": "3989QBMECDY"
       },
       {
+        "name": "Letícia Medeiros",
+        "email": "leticiampo@suzano.com.br",
+        "cargo": "Outro",
+        "empresa": "Suzano",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMGDCM"
+      },
+      {
         "name": "Lilian Nucci",
         "email": "lilian.nucci@citrosuco.com",
         "cargo": "Gerência",
@@ -2284,6 +2457,30 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBL8VY4"
+      },
+      {
+        "name": "Lucas Henrique",
+        "email": "lucashenrytrumpet@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Jazz e Risos",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Artista",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMHVL7"
+      },
+      {
+        "name": "Lucas Mariano",
+        "email": "lucas.gomes@clara.team",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Clara",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMY9RE"
       },
       {
         "name": "LUCAS DA CRUZ MARQUES",
@@ -2646,6 +2843,18 @@
         "order_id": "3989QBYC2EL"
       },
       {
+        "name": "Marta Geane Oliveira De Freitas",
+        "email": "plataformas@mgo-servicos.com",
+        "cargo": "Diretoria",
+        "empresa": "MGO DE FREITAS LTDA",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMKVAF"
+      },
+      {
         "name": "Maryana Alves",
         "email": "maryana.alves@wehandle.com.br",
         "cargo": "Gerência",
@@ -2886,6 +3095,18 @@
         "order_id": "3989QBKA3YB"
       },
       {
+        "name": "Pedro Nudelman",
+        "email": "pedro.nudelman@8arm.io",
+        "cargo": "Outro",
+        "empresa": "Tako",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMM6DH"
+      },
+      {
         "name": "Pedro Henrique Costa Dutra",
         "email": "pedro.dutra@verisure.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -2944,6 +3165,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBL9EGB"
+      },
+      {
+        "name": "Rafael Andreucci",
+        "email": "rafael.andreucci@clara.team",
+        "cargo": "Gerência",
+        "empresa": "Clara",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMYC62"
       },
       {
         "name": "RAFAELA OLIVEIRA DE JESUS",
@@ -3042,6 +3275,18 @@
         "order_id": "3989QB343NC"
       },
       {
+        "name": "Reinaldo Souza",
+        "email": "Reinaldo.souza@ctcinfra.com.br",
+        "cargo": "Diretoria",
+        "empresa": "CTC Infra",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMLVDM"
+      },
+      {
         "name": "Renan Schiavinoto",
         "email": "renan.schiavinoto@siemens.com",
         "cargo": "Analista",
@@ -3054,6 +3299,18 @@
         "order_id": "3989QBKAVZT"
       },
       {
+        "name": "Renan Pacheco",
+        "email": "renan.pacheco@ageplan.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Ageplan Engenharia e Construções",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMLMTU"
+      },
+      {
         "name": "Renato Bussamra Sanchez",
         "email": "renato.sanchez@sincoengenharia.com.br",
         "cargo": "Diretoria",
@@ -3064,6 +3321,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Rhaiane Marques",
+        "email": "rhaiane.marques@hotmail.com",
+        "cargo": "Outro",
+        "empresa": "Sabesp",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMJQFF"
       },
       {
         "name": "Ricardo Guerra",
@@ -3088,6 +3357,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLYYEA"
+      },
+      {
+        "name": "Robson Jesus",
+        "email": "robson.jesus@nexta.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "NEXTA | PETRONAS",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMLQT5"
       },
       {
         "name": "RODRIGO LOPEZ",
@@ -3148,6 +3429,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QBFLJDQ"
+      },
+      {
+        "name": "RONALDO RODRIGUES",
+        "email": "ronyprodrigues@gmail.com",
+        "cargo": "Gerência",
+        "empresa": "Obrasoft",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMKQMM"
       },
       {
         "name": "Rosemberg Nunes Ferreira Filho",
@@ -3400,6 +3693,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBK8CCS"
+      },
+      {
+        "name": "Thiago Rogério",
+        "email": "thiagolourencomusico@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Jazz e Risos",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Artista",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMHVL7"
       },
       {
         "name": "Tiago Marson",
