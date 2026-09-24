@@ -1,31 +1,36 @@
 {
-  "updated_at": "2026-09-22T15:17:45.703534+00:00",
+  "updated_at": "2026-09-24T15:37:11.576782+00:00",
   "event_id": "3449146",
-  "total_tickets": 8,
-  "total_revenue": 2328.0,
+  "total_tickets": 12,
+  "total_revenue": 3192.0,
   "summary": {
     "orders": {
-      "total": 204,
-      "total_revenue": 14803.0,
-      "approved": 204,
-      "approved_revenue": 14803.0,
+      "total": 222,
+      "total_revenue": 15782.0,
+      "approved": 222,
+      "approved_revenue": 15782.0,
       "pending": 0,
       "pending_revenue": 0
     },
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 169,
-        "revenue": 4158.0
+        "count": 185,
+        "revenue": 5137.0
       },
       {
-        "name": "Palestrante",
+        "name": "Ingresso padrão para grupos (5 ou mais)",
+        "count": 36,
+        "revenue": 3168.0
+      },
+      {
+        "name": "Convidado - Ingresso Padrão",
         "count": 33,
         "revenue": 0.0
       },
       {
-        "name": "Convidado - Ingresso Padrão",
-        "count": 31,
+        "name": "Palestrante",
+        "count": 33,
         "revenue": 0.0
       },
       {
@@ -37,11 +42,6 @@
         "name": "Ingresso padrão antecipado individual",
         "count": 18,
         "revenue": 2002.0
-      },
-      {
-        "name": "Ingresso padrão para grupos (5 ou mais)",
-        "count": 16,
-        "revenue": 3168.0
       },
       {
         "name": "Ingresso individual VIP",
@@ -203,6 +203,18 @@
         "order_id": "3989QBMECDY"
       },
       {
+        "name": "Aline Felicio",
+        "email": "aline.felicio@stratesys-ts.com",
+        "cargo": "Analista",
+        "empresa": "Stratesys",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMVV4B"
+      },
+      {
         "name": "Alisson Scarparo",
         "email": "alisson.scarparo@apter.com.br",
         "cargo": "Diretoria",
@@ -225,6 +237,18 @@
         "ticket_price": 306.0,
         "status": "Aprovado",
         "order_id": "3989QB7HEM3"
+      },
+      {
+        "name": "Ana Vedrano",
+        "email": "ana.vedrano@ctcinfra.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "CTC Infra",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN03H3"
       },
       {
         "name": "Ana Carolina Araujo",
@@ -263,6 +287,18 @@
         "order_id": "3989QBMMQB9"
       },
       {
+        "name": "Ana Paula Loiola",
+        "email": "ana.loiola@hays.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Hays",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN191M"
+      },
+      {
         "name": "Anderson Domingues",
         "email": "anderson.domingues@engemon.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -273,6 +309,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBL7SMM"
+      },
+      {
+        "name": "Anderson Bras",
+        "email": "anderson.bras@stratesys-ts.com",
+        "cargo": "Diretoria",
+        "empresa": "Stratesys",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMVV4B"
       },
       {
         "name": "ANDRE MARTIN JUNIOR",
@@ -323,6 +371,18 @@
         "order_id": "3989QBLZ6C8"
       },
       {
+        "name": "Andrea Zamora",
+        "email": "andrea.zamora@hays.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Hays",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN191M"
+      },
+      {
         "name": "Andressa Nozue",
         "email": "andressa.nozue@wehandle.com.br",
         "cargo": "Diretoria",
@@ -357,6 +417,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QB9SYV3"
+      },
+      {
+        "name": "Antonio Platero",
+        "email": "Antonio.Platero@hays.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Hays",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN191M"
       },
       {
         "name": "Ariana Valverdes",
@@ -575,6 +647,18 @@
         "order_id": "3989QBJ6C3P"
       },
       {
+        "name": "Camila Rocha",
+        "email": "camilarocha@metarh.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "METARH",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMUV9J"
+      },
+      {
         "name": "Carina Miyamoto",
         "email": "carina.miyamoto@abimed.org.br",
         "cargo": "Gerência",
@@ -621,6 +705,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBL39HU"
+      },
+      {
+        "name": "Carlos Henrique de Souza",
+        "email": "carlos.souza@engeform.com.br",
+        "cargo": "Analista",
+        "empresa": "Engeform",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN3MSF"
       },
       {
         "name": "CARLOS KLEBER OLIVEIRA DA SILVA",
@@ -693,6 +789,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Cinthia Castro",
+        "email": "cinthia.castro@hays.com.br",
+        "cargo": "Analista",
+        "empresa": "Hays",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN191M"
       },
       {
         "name": "Claudia Miamura",
@@ -959,6 +1067,30 @@
         "order_id": "3989QB342SJ"
       },
       {
+        "name": "Drielly Ramos",
+        "email": "drielly.ramos@stratesys-ts.com",
+        "cargo": "Gerência",
+        "empresa": "Stratesys",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMVV4B"
+      },
+      {
+        "name": "Eder Teixeira",
+        "email": "eder.teixeira@stratesys-ts.com",
+        "cargo": "Analista",
+        "empresa": "Stratesys",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMVV4B"
+      },
+      {
         "name": "Edijane Santos Brandão",
         "email": "edijane.brandao@topico.com.br",
         "cargo": "Outro",
@@ -1223,6 +1355,18 @@
         "order_id": "3989QBMGFA1"
       },
       {
+        "name": "Fabio Lopes",
+        "email": "fabio.lopes@scaladatacenters.com",
+        "cargo": "Analista",
+        "empresa": "Scala Data Centers",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMUUH1"
+      },
+      {
         "name": "Felipe Vianini",
         "email": "felipe.fvianini@hotmail.com",
         "cargo": "Gerência",
@@ -1257,6 +1401,18 @@
         "ticket_price": 198.0,
         "status": "Aprovado",
         "order_id": "3989QBLPP24"
+      },
+      {
+        "name": "Felipe Tavares",
+        "email": "felipe.tavares@scaladatacenters.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Scala Data Centers",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMUUH1"
       },
       {
         "name": "Fernanda Siqueira",
@@ -1317,6 +1473,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLSK10"
+      },
+      {
+        "name": "Fernanda Bastos",
+        "email": "fernandabastos@metarh.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "METARH",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMUV9J"
       },
       {
         "name": "Fernando Oshima",
@@ -1571,6 +1739,18 @@
         "order_id": "3989QBMY9RE"
       },
       {
+        "name": "Gabriela Amorim",
+        "email": "gabrielaamorim@metarh.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "METARH",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMUV9J"
+      },
+      {
         "name": "Gabriele Malta",
         "email": "gabriele.correia@siemens.com",
         "cargo": "Gerência",
@@ -1605,6 +1785,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBL0YFZ"
+      },
+      {
+        "name": "Gerson Nocera",
+        "email": "gerson.silva@scaladatacenters.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Scala Data Centers",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMUUH1"
       },
       {
         "name": "Gisele Figueredo Lopes",
@@ -1677,6 +1869,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBL6R3K"
+      },
+      {
+        "name": "Guilherme Rodrigues Quartarolo",
+        "email": "guilherme.quartarolo@obrasoft.com.br",
+        "cargo": "Gerência",
+        "empresa": "ObraSoft",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMPZJ9"
       },
       {
         "name": "Gustavo Ribeiro Goncalves",
@@ -1797,6 +2001,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKF90R"
+      },
+      {
+        "name": "Ieda Cristina da Silva Winter",
+        "email": "iedacsw@gmail.com",
+        "cargo": "Analista",
+        "empresa": "Jota Ele Construções Civis S/A",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 115.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMUAJR"
       },
       {
         "name": "Igor Riberti",
@@ -2003,6 +2219,18 @@
         "order_id": "3989QBLSPE6"
       },
       {
+        "name": "José Fernandes",
+        "email": "jose.filho@stratesys-ts.com",
+        "cargo": "Diretoria",
+        "empresa": "Stratesys",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMVV4B"
+      },
+      {
         "name": "Joseane Martins",
         "email": "joseane.ribeiro@demarco.com.br",
         "cargo": "Gerência",
@@ -2061,6 +2289,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKVTL4"
+      },
+      {
+        "name": "Julia de Lima",
+        "email": "Julia.vasco@citrosuco.com",
+        "cargo": "Analista",
+        "empresa": "Citrosuco",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN0FN9"
       },
       {
         "name": "JULIANA SANTOS",
@@ -2195,6 +2435,18 @@
         "order_id": "3989QBKAPTH"
       },
       {
+        "name": "Kauan Lima Rodrigues",
+        "email": "kauanrodrigues@rotadasbandeiras.com.br",
+        "cargo": "Outro",
+        "empresa": "Concessionária Rota das Bandeiras",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN3GP8"
+      },
+      {
         "name": "Kiara Santos Santana",
         "email": "kiara.santana@consorciosaneamento.com",
         "cargo": "Analista",
@@ -2217,6 +2469,18 @@
         "ticket_price": 230.0,
         "status": "Aprovado",
         "order_id": "3989QB3NT00"
+      },
+      {
+        "name": "Laiana de Cássia Camargo Jesus Gouvêa",
+        "email": "laiana@inflorseg.com.br",
+        "cargo": "Analista",
+        "empresa": "INFLORSEG",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN38J4"
       },
       {
         "name": "Lais Genesini",
@@ -2313,6 +2577,30 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLG01Z"
+      },
+      {
+        "name": "Leandro Marques",
+        "email": "leandromarques@metarh.com.br",
+        "cargo": "Gerência",
+        "empresa": "METARH",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMUV9J"
+      },
+      {
+        "name": "Leidiane Nogueira",
+        "email": "leidiane.nogueira@scaladatacenters.com",
+        "cargo": "Gerência",
+        "empresa": "Scala Data Centers",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMUUH1"
       },
       {
         "name": "LEONARDO BASAGLIA",
@@ -2699,6 +2987,18 @@
         "order_id": "3989QBLAACE"
       },
       {
+        "name": "Marcelo Araujo Lima",
+        "email": "marcelolima@rotadasbandeiras.com.br",
+        "cargo": "Outro",
+        "empresa": "Concessionária Rota das Bandeiras",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN3DE6"
+      },
+      {
         "name": "Marcio Dantas",
         "email": "marcio.dantas@wehandle.com.br",
         "cargo": "Diretoria",
@@ -2939,6 +3239,18 @@
         "order_id": "3989QB62EP9"
       },
       {
+        "name": "Miguel Pokojeski",
+        "email": "miguel.pokojeski@obrasoft.com.br",
+        "cargo": "Gerência",
+        "empresa": "OBRASOFT",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMPS3L"
+      },
+      {
         "name": "Mileine Araujo Azevedo",
         "email": "mileine.araujo@enops.com.br",
         "cargo": "Outro",
@@ -2961,6 +3273,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB60LJH"
+      },
+      {
+        "name": "MURILLO FERREIRA DINIZ",
+        "email": "mdiniz@modulardtc.com",
+        "cargo": "Outro",
+        "empresa": "Modular Data Center",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 216.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLVTFT"
       },
       {
         "name": "Natalia Marques",
@@ -2999,6 +3323,30 @@
         "order_id": "3989QBM05LJ"
       },
       {
+        "name": "NATHIELE QUEIROS ALCANTARA",
+        "email": "nalcantara@modulardtc.com",
+        "cargo": "Analista",
+        "empresa": "Modular Data Center",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 216.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLVTFT"
+      },
+      {
+        "name": "Otávio Pepe",
+        "email": "otavio.pepe@obrasoft.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Obrasoft",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMPNQ7"
+      },
+      {
         "name": "Patricia Barbarini",
         "email": "patricia.barbarini@g.globo",
         "cargo": "Gerência",
@@ -3021,6 +3369,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKAPTH"
+      },
+      {
+        "name": "Paulo Henrique Pereira da Silva",
+        "email": "paulosilva@metarh.com.br",
+        "cargo": "Gerência",
+        "empresa": "METARH",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMTZ08"
       },
       {
         "name": "PAULO ROBERTO FILHO",
@@ -3251,6 +3611,18 @@
         "order_id": "3989QBL7SMM"
       },
       {
+        "name": "Rebeca Leite",
+        "email": "rebecaleite@metarh.com.br",
+        "cargo": "Diretoria",
+        "empresa": "METARH",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMUV9J"
+      },
+      {
         "name": "Regiane Ferreira",
         "email": "regiane.ferreira@g.globo",
         "cargo": "Analista",
@@ -3311,6 +3683,18 @@
         "order_id": "3989QBMLMTU"
       },
       {
+        "name": "Renan Bertucci",
+        "email": "renanb382@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Tako",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMNSF5"
+      },
+      {
         "name": "Renato Bussamra Sanchez",
         "email": "renato.sanchez@sincoengenharia.com.br",
         "cargo": "Diretoria",
@@ -3321,6 +3705,18 @@
         "ticket_price": 115.0,
         "status": "Aprovado",
         "order_id": "3989QB5AHG0"
+      },
+      {
+        "name": "Renato Santana",
+        "email": "renato.santana@hays.com.br",
+        "cargo": "Gerência",
+        "empresa": "Hays",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN191M"
       },
       {
         "name": "Rhaiane Marques",
@@ -3419,6 +3815,18 @@
         "order_id": "3989QBL9HJA"
       },
       {
+        "name": "Rodrigo José Oliveira",
+        "email": "rodrigo.oliveira@engeform.com.br",
+        "cargo": "Analista",
+        "empresa": "Engeform",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN3MSF"
+      },
+      {
         "name": "Rodrigo Siqueira Miguel",
         "email": "rodrigo.smiguel@verisure.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -3453,6 +3861,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBG0P3N"
+      },
+      {
+        "name": "RUTE DE PAIVA FRANCISCO",
+        "email": "rfrancisco@modulardtc.com",
+        "cargo": "Analista",
+        "empresa": "Modular Data Center",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 216.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLVTFT"
       },
       {
         "name": "Ruy Correa",
@@ -3683,6 +4103,18 @@
         "order_id": "3989QBACM7K"
       },
       {
+        "name": "THAYS SEGALIN BESCHORNER",
+        "email": "tbeschorner@modulardtc.com",
+        "cargo": "Outro",
+        "empresa": "Modular Data Center",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 216.0,
+        "status": "Aprovado",
+        "order_id": "3989QBLVTFT"
+      },
+      {
         "name": "Thiago Fragoso",
         "email": "thigofra@gmail.com",
         "cargo": "Proprietário(a)",
@@ -3851,6 +4283,30 @@
         "order_id": "3989QBJUGJG"
       },
       {
+        "name": "Vinicius Barusso",
+        "email": "vinibarusso111@gmail.com",
+        "cargo": "Analista",
+        "empresa": "CARIOCA CHRISTIANI NIELSEN ENGENHARIA",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMZHLG"
+      },
+      {
+        "name": "Vinícius Lourençoni",
+        "email": "vinicius.lourenconi@scaladatacenters.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Scala Data Centers",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMUUH1"
+      },
+      {
         "name": "Vitor Oliveira",
         "email": "vitor.oliveria@wehandle.com.br",
         "cargo": "Analista",
@@ -3914,85 +4370,85 @@
   },
   "ranking": [
     {
+      "code": "ARTHURGT360",
+      "name": "Arthur Avila Tobias",
+      "tickets": 4,
+      "revenue": 864.0,
+      "position": 1
+    },
+    {
       "code": "ADRIANOGT360",
       "name": "Adriano Dutra",
       "tickets": 3,
       "revenue": 658.0,
-      "position": 1
+      "position": 2
     },
     {
       "code": "LUIGIGT360",
       "name": "Luigi Galderisi",
       "tickets": 2,
       "revenue": 782.0,
-      "position": 2
+      "position": 3
     },
     {
       "code": "ANNAGT360",
       "name": "Anna Elisa Sarti",
       "tickets": 2,
       "revenue": 672.0,
-      "position": 3
+      "position": 4
     },
     {
       "code": "CAMILAGT360",
       "name": "Camila Raphaela Peres Mancio",
       "tickets": 1,
       "revenue": 216.0,
-      "position": 4
+      "position": 5
     },
     {
       "code": "ADRIANAGT360",
       "name": "Adriana Chigueira",
       "tickets": 0,
       "revenue": 0.0,
-      "position": 5
+      "position": 6
     },
     {
       "code": "AFONSOGT360",
       "name": "Afonso Brunelli Ferragut",
       "tickets": 0,
       "revenue": 0.0,
-      "position": 6
+      "position": 7
     },
     {
       "code": "ALISSSONGT360",
       "name": "Alisson Vasconcelos Dos Santos",
       "tickets": 0,
       "revenue": 0.0,
-      "position": 7
+      "position": 8
     },
     {
       "code": "ANAGT360",
       "name": "Ana Paula Simões Pessoa",
       "tickets": 0,
       "revenue": 0.0,
-      "position": 8
+      "position": 9
     },
     {
       "code": "ANDREIAGT360",
       "name": "Andreia Alves De Andrade",
       "tickets": 0,
       "revenue": 0.0,
-      "position": 9
+      "position": 10
     },
     {
       "code": "ANDRESSAGT360",
       "name": "Andressa Nozue",
       "tickets": 0,
       "revenue": 0.0,
-      "position": 10
+      "position": 11
     },
     {
       "code": "ANTONIOGT360",
       "name": "Antonio Messias Ferreira Da Silva",
-      "tickets": 0,
-      "revenue": 0.0,
-      "position": 11
-    },
-    {
-      "code": "ARTHURGT360",
-      "name": "Arthur Avila Tobias",
       "tickets": 0,
       "revenue": 0.0,
       "position": 12
