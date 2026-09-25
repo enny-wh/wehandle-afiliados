@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-24T15:37:11.576782+00:00",
+  "updated_at": "2026-09-25T15:41:20.870875+00:00",
   "event_id": "3449146",
   "total_tickets": 12,
   "total_revenue": 3192.0,
   "summary": {
     "orders": {
-      "total": 222,
+      "total": 232,
       "total_revenue": 15782.0,
-      "approved": 222,
+      "approved": 232,
       "approved_revenue": 15782.0,
       "pending": 0,
       "pending_revenue": 0
@@ -15,7 +15,7 @@
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 185,
+        "count": 194,
         "revenue": 5137.0
       },
       {
@@ -25,7 +25,7 @@
       },
       {
         "name": "Convidado - Ingresso Padrão",
-        "count": 33,
+        "count": 34,
         "revenue": 0.0
       },
       {
@@ -47,6 +47,11 @@
         "name": "Ingresso individual VIP",
         "count": 8,
         "revenue": 2968.0
+      },
+      {
+        "name": "Audiovisual",
+        "count": 6,
+        "revenue": 0.0
       },
       {
         "name": "Ingresso VIP antecipado individual",
@@ -155,6 +160,18 @@
         "order_id": "3989QBMECDY"
       },
       {
+        "name": "Alexander Leme",
+        "email": "alexlemme19@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Fotoabelha",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Audiovisual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNAN7Y"
+      },
+      {
         "name": "Alexandre Azuma",
         "email": "alexandre.azuma@outlook.com",
         "cargo": "Supervisão/Coordenação",
@@ -213,6 +230,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBMVV4B"
+      },
+      {
+        "name": "Aline Soares",
+        "email": "line.soares182@gmail.com",
+        "cargo": "Analista",
+        "empresa": "Sky",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNA85Z"
       },
       {
         "name": "Alisson Scarparo",
@@ -755,6 +784,18 @@
         "order_id": "3989QBG77HF"
       },
       {
+        "name": "Carolina Soares",
+        "email": "carolina.ribeiro@citrosuco.com",
+        "cargo": "Analista",
+        "empresa": "Citrosuco",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBL9HJA"
+      },
+      {
         "name": "Carolina Gomes Caze",
         "email": "caze@google.com",
         "cargo": "Analista",
@@ -765,6 +806,18 @@
         "ticket_price": 198.0,
         "status": "Aprovado",
         "order_id": "3989QBLPP24"
+      },
+      {
+        "name": "CATARINA SAMPAIO DE OLIVEIRA BELMIRO",
+        "email": "catarinasampaiodeoliveira416@gmail.com",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "lfm engenharia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNB7JZ"
       },
       {
         "name": "CELIA PRADA",
@@ -801,6 +854,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBN191M"
+      },
+      {
+        "name": "Cirdes Henrique",
+        "email": "cirdes@linkana.com",
+        "cargo": "Proprietário(a)",
+        "empresa": "Linkana",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN6LVF"
       },
       {
         "name": "Claudia Miamura",
@@ -1137,6 +1202,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBMYC62"
+      },
+      {
+        "name": "Eduardo Fuentes",
+        "email": "eduardoa@valutia.com",
+        "cargo": "Outro",
+        "empresa": "Valutia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNAR8D"
       },
       {
         "name": "Elder Macedo",
@@ -1907,6 +1984,18 @@
         "order_id": "3989QBLJNNF"
       },
       {
+        "name": "Gustavo Garcia",
+        "email": "gustavo.garcia@ojipapeis.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Oji Papéis Especiais",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN6028"
+      },
+      {
         "name": "Gustavo Henrique Guimarães de Souza",
         "email": "gustavo.sousa@consorciosaneamento.com.br",
         "cargo": "Analista",
@@ -2279,6 +2368,18 @@
         "order_id": "3989QB74ECH"
       },
       {
+        "name": "Juarez Lopes",
+        "email": "cree8films@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Fotoabelha",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Audiovisual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNAN7Y"
+      },
+      {
         "name": "JUCINEIA MANDELI DE OLIVEIRA",
         "email": "jucineia16@gmail.com",
         "cargo": "Analista",
@@ -2447,6 +2548,18 @@
         "order_id": "3989QBN3GP8"
       },
       {
+        "name": "Kellen Peres",
+        "email": "kellen.peres@gedanken.com.br",
+        "cargo": "Analista",
+        "empresa": "Gedanken",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNABEJ"
+      },
+      {
         "name": "Kiara Santos Santana",
         "email": "kiara.santana@consorciosaneamento.com",
         "cargo": "Analista",
@@ -2601,6 +2714,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBMUUH1"
+      },
+      {
+        "name": "Leo Cavalcanti",
+        "email": "leonardo@linkana.com",
+        "cargo": "Proprietário(a)",
+        "empresa": "Linkana",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBN6LVF"
       },
       {
         "name": "LEONARDO BASAGLIA",
@@ -3251,6 +3376,18 @@
         "order_id": "3989QBMPS3L"
       },
       {
+        "name": "Miguel Campos",
+        "email": "miguel@canary.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Canary",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNA8A6"
+      },
+      {
         "name": "Mileine Araujo Azevedo",
         "email": "mileine.araujo@enops.com.br",
         "cargo": "Outro",
@@ -3333,6 +3470,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QBLVTFT"
+      },
+      {
+        "name": "Nicholas Mendes",
+        "email": "nicholasmendesart@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Fotoabelha",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Audiovisual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNAN7Y"
       },
       {
         "name": "Otávio Pepe",
@@ -3539,6 +3688,18 @@
         "order_id": "3989QBMYC62"
       },
       {
+        "name": "Rafael Coelho Pimentel",
+        "email": "rafaelcoelhopimentel@gmail.com",
+        "cargo": "Gerência",
+        "empresa": "Justoken",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNAT0G"
+      },
+      {
         "name": "RAFAELA OLIVEIRA DE JESUS",
         "email": "rafaela.jesus@v4company.com",
         "cargo": "Supervisão/Coordenação",
@@ -3695,6 +3856,18 @@
         "order_id": "3989QBMNSF5"
       },
       {
+        "name": "Renan Melo",
+        "email": "renanmeloproducoes@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Fotoabelha",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Audiovisual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNAN7Y"
+      },
+      {
         "name": "Renato Bussamra Sanchez",
         "email": "renato.sanchez@sincoengenharia.com.br",
         "cargo": "Diretoria",
@@ -3803,16 +3976,28 @@
         "order_id": "3989QBL39HU"
       },
       {
-        "name": "Rodrigo Lasalvia",
-        "email": "rglasalvia@rdsaude.com.br",
-        "cargo": "Gerência",
-        "empresa": "RD Saúde",
-        "natureza": "Contrata serviços terceirizados",
-        "perfil": "Tomador",
-        "ticket_name": "Palestrante",
+        "name": "Rodrigo Souza",
+        "email": "fotoabelha@icloud.com",
+        "cargo": "Outro",
+        "empresa": "Fotoabelha",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Audiovisual",
         "ticket_price": 0.0,
         "status": "Aprovado",
-        "order_id": "3989QBL9HJA"
+        "order_id": "3989QBNAN7Y"
+      },
+      {
+        "name": "Rodrigo Furtado",
+        "email": "rodrigofurtadogomes@gmail.com",
+        "cargo": "Outro",
+        "empresa": "Fotoabelha",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Audiovisual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNAN7Y"
       },
       {
         "name": "Rodrigo José Oliveira",
@@ -4341,6 +4526,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB5CFQM"
+      },
+      {
+        "name": "Walter Puveia Junior",
+        "email": "walter.puveia@br.g4s.com",
+        "cargo": "Gerência",
+        "empresa": "G4S Holding Brasil",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNAESF"
       },
       {
         "name": "Yukio Yokota",
