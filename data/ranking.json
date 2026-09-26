@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-25T15:41:20.870875+00:00",
+  "updated_at": "2026-09-26T14:48:49.001509+00:00",
   "event_id": "3449146",
   "total_tickets": 12,
   "total_revenue": 3192.0,
   "summary": {
     "orders": {
-      "total": 232,
-      "total_revenue": 15782.0,
-      "approved": 232,
-      "approved_revenue": 15782.0,
+      "total": 242,
+      "total_revenue": 16334.0,
+      "approved": 242,
+      "approved_revenue": 16334.0,
       "pending": 0,
       "pending_revenue": 0
     },
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 194,
-        "revenue": 5137.0
+        "count": 203,
+        "revenue": 5689.0
       },
       {
         "name": "Ingresso padrão para grupos (5 ou mais)",
-        "count": 36,
+        "count": 41,
         "revenue": 3168.0
       },
       {
@@ -35,7 +35,7 @@
       },
       {
         "name": "Staff",
-        "count": 24,
+        "count": 25,
         "revenue": 0.0
       },
       {
@@ -278,6 +278,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBN03H3"
+      },
+      {
+        "name": "Ana Beatriz Rodrigues Carvalho",
+        "email": "ana.carvalho@wehandle.com.br",
+        "cargo": "Outro",
+        "empresa": "Wehandle",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNBQQS"
       },
       {
         "name": "Ana Carolina Araujo",
@@ -832,6 +844,18 @@
         "order_id": "3989QBK0RH8"
       },
       {
+        "name": "Cesar Pereira",
+        "email": "cesar.pereira@tegma.com.br",
+        "cargo": "Gerência",
+        "empresa": "Tegma Gestão Logistica S/A",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNC5VD"
+      },
+      {
         "name": "Christopher Bandeira de Oliveira Santos",
         "email": "christopher.bandeira@sincoengenharia.com.br",
         "cargo": "Analista",
@@ -890,6 +914,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBYYMUA"
+      },
+      {
+        "name": "Clovis Souza",
+        "email": "clovis@giulianaflores.com.br",
+        "cargo": "Proprietário(a)",
+        "empresa": "Giuliana Flores",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 276.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNBM5N"
       },
       {
         "name": "Daiana Vieira da Costa",
@@ -1084,6 +1120,18 @@
         "order_id": "3989QBL8T42"
       },
       {
+        "name": "DEBORA MICHELLE DE AGUIAR SILVA",
+        "email": "debora.silva@passarelli.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "PASSARELLI ENGENHARIA E CONSTRUÇÃO LTDA",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNC7RQ"
+      },
+      {
         "name": "Diego Cavichioli",
         "email": "diego.cavichioli@wehandle.com.br",
         "cargo": "Diretoria",
@@ -1166,6 +1214,30 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB4TCM2"
+      },
+      {
+        "name": "Edinardo Nascimento",
+        "email": "Edinardo.njunior@atvos.com",
+        "cargo": "Diretoria",
+        "empresa": "ATVOS",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 276.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNBM5N"
+      },
+      {
+        "name": "Edinilson Filho",
+        "email": "edinilson.filho@ext.wehandle.com.br",
+        "cargo": "Analista",
+        "empresa": "wehandle",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNDA6C"
       },
       {
         "name": "Eduardo Fernandes",
@@ -1310,6 +1382,18 @@
         "ticket_price": 460.0,
         "status": "Aprovado",
         "order_id": "3989QB1Z69B"
+      },
+      {
+        "name": "Erika Joaquim",
+        "email": "erika.joaquim@adnconstrutora.com.br",
+        "cargo": "Supervisão/Coordenação",
+        "empresa": "Grupo ADN SA",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QB8NUEY"
       },
       {
         "name": "Erika Séddon",
@@ -1876,6 +1960,30 @@
         "order_id": "3989QBMUUH1"
       },
       {
+        "name": "Gil Sapucaia",
+        "email": "gil.junior@tegma.com.br",
+        "cargo": "Analista",
+        "empresa": "Tegma Gestão Logistica S/A",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNC5VD"
+      },
+      {
+        "name": "Gilson Ceratti",
+        "email": "gilson.ceratti@obrasoft.com.br",
+        "cargo": "Diretoria",
+        "empresa": "OBRASOFT TECNOLOGIA DA INFORMACAO LTDA",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNCP22"
+      },
+      {
         "name": "Gisele Figueredo Lopes",
         "email": "gisele.lopes@ageplan.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -2176,6 +2284,18 @@
         "order_id": "3989QBLPP24"
       },
       {
+        "name": "Jeferson Mendes",
+        "email": "admsuzano02@lfmengenharia.com.br",
+        "cargo": "Outro",
+        "empresa": "Lfm Engenharia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNC0QL"
+      },
+      {
         "name": "Jessica Karolainy Da Silva Rendaki",
         "email": "jessica.rendaki@votorantim.com",
         "cargo": "Analista",
@@ -2356,6 +2476,18 @@
         "order_id": "3989QBLHRTS"
       },
       {
+        "name": "Joyce Melo",
+        "email": "joyce.sousa@tegma.com.br",
+        "cargo": "Analista",
+        "empresa": "Tegma Gestão Logistica S/A",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNC5VD"
+      },
+      {
         "name": "Juan Patrone",
         "email": "juan.patrone@tkelevator.com",
         "cargo": "Supervisão/Coordenação",
@@ -2498,6 +2630,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBMM57N"
+      },
+      {
+        "name": "JULIANA SILVESTRIN",
+        "email": "julianasilvestrin@lfmengenharia.com.br",
+        "cargo": "Outro",
+        "empresa": "LFM ENGENHARIA DE OBRAS",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNBS16"
       },
       {
         "name": "Juliane Aparecida Pereira",
@@ -2654,18 +2798,6 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBAFGBP"
-      },
-      {
-        "name": "Leandro Sousa",
-        "email": "leandro.sousa@adnconstrutora.com.br",
-        "cargo": "Diretoria",
-        "empresa": "Grupo ADN SA",
-        "natureza": "Contrata serviços terceirizados",
-        "perfil": "Tomador",
-        "ticket_name": "Ingresso padrão individual",
-        "ticket_price": 0.0,
-        "status": "Aprovado",
-        "order_id": "3989QB8NUEY"
       },
       {
         "name": "Leandro Pederiva Celestrino",
@@ -3616,6 +3748,18 @@
         "order_id": "3989QBMM6DH"
       },
       {
+        "name": "Pedro Vitor",
+        "email": "pedrovitor@inflorseg.com.br",
+        "cargo": "Proprietário(a)",
+        "empresa": "INFLORSEG",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNCJ3F"
+      },
+      {
         "name": "Pedro Henrique Costa Dutra",
         "email": "pedro.dutra@verisure.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -4036,6 +4180,18 @@
         "order_id": "3989QBMKQMM"
       },
       {
+        "name": "ROSE GREICE POVA",
+        "email": "rose.pova@passarelli.com.br",
+        "cargo": "Analista",
+        "empresa": "PASSARELLI ENGENHARIA E CONSTRUCAO LTDA",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNCE11"
+      },
+      {
         "name": "Rosemberg Nunes Ferreira Filho",
         "email": "rfilho@ternium.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -4190,6 +4346,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKA3YB"
+      },
+      {
+        "name": "Tarcisio Felisardo",
+        "email": "tarcisio.felisardo@tegma.com.br",
+        "cargo": "Diretoria",
+        "empresa": "Tegma Gestão Logistica S/A",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNC5VD"
       },
       {
         "name": "TATHIANA SANDE",
@@ -4430,6 +4598,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QB4T755"
+      },
+      {
+        "name": "Victor Gomes",
+        "email": "victor.gomes@tegma.com.br",
+        "cargo": "Analista",
+        "empresa": "Tegma Gestão Logistica S/A",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNC5VD"
       },
       {
         "name": "Victor Isse D'Alessandro",
