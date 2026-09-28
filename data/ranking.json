@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-27T15:28:04.901044+00:00",
+  "updated_at": "2026-09-28T18:19:02.385482+00:00",
   "event_id": "3449146",
   "total_tickets": 12,
   "total_revenue": 3192.0,
   "summary": {
     "orders": {
-      "total": 242,
+      "total": 246,
       "total_revenue": 16334.0,
-      "approved": 242,
+      "approved": 246,
       "approved_revenue": 16334.0,
       "pending": 0,
       "pending_revenue": 0
@@ -19,14 +19,14 @@
         "revenue": 5689.0
       },
       {
+        "name": "Convidado - Ingresso Padrão",
+        "count": 45,
+        "revenue": 0.0
+      },
+      {
         "name": "Ingresso padrão para grupos (5 ou mais)",
         "count": 41,
         "revenue": 3168.0
-      },
-      {
-        "name": "Convidado - Ingresso Padrão",
-        "count": 34,
-        "revenue": 0.0
       },
       {
         "name": "Palestrante",
@@ -256,6 +256,18 @@
         "order_id": "3989QBLEA64"
       },
       {
+        "name": "Amanda Maciel",
+        "email": "amanda.maciel@casasbahia.com.br",
+        "cargo": "Outro",
+        "empresa": "Casas Bahia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNPQ79"
+      },
+      {
         "name": "ANA JARANDYA",
         "email": "ana.jarandya@cmr4augustovelloso.com.br",
         "cargo": "Outro",
@@ -458,6 +470,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QB9SYV3"
+      },
+      {
+        "name": "Antônio Gabriel",
+        "email": "antoniogabrielg@gmail.com",
+        "cargo": "Outro",
+        "empresa": "MGO DE FREITAS LTDA",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBMKVAF"
       },
       {
         "name": "Antonio Platero",
@@ -664,6 +688,18 @@
         "order_id": "3989QBMY9RE"
       },
       {
+        "name": "Bruno Beneduzzi",
+        "email": "beneduzzi77@gmail.com",
+        "cargo": "Diretoria",
+        "empresa": "Bruno Beneduzzi",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNQ8KB"
+      },
+      {
         "name": "Caio Sagae",
         "email": "caio.sagae@wehandle.com.br",
         "cargo": "Diretoria",
@@ -796,18 +832,6 @@
         "order_id": "3989QBG77HF"
       },
       {
-        "name": "Carolina Soares",
-        "email": "carolina.ribeiro@citrosuco.com",
-        "cargo": "Analista",
-        "empresa": "Citrosuco",
-        "natureza": "Contrata serviços terceirizados",
-        "perfil": "Tomador",
-        "ticket_name": "Palestrante",
-        "ticket_price": 0.0,
-        "status": "Aprovado",
-        "order_id": "3989QBL9HJA"
-      },
-      {
         "name": "Carolina Gomes Caze",
         "email": "caze@google.com",
         "cargo": "Analista",
@@ -818,6 +842,18 @@
         "ticket_price": 198.0,
         "status": "Aprovado",
         "order_id": "3989QBLPP24"
+      },
+      {
+        "name": "Carolina Soares",
+        "email": "carolina.ribeiro@citrosuco.com",
+        "cargo": "Analista",
+        "empresa": "Citrosuco",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNQ8KB"
       },
       {
         "name": "CATARINA SAMPAIO DE OLIVEIRA BELMIRO",
@@ -1324,18 +1360,6 @@
         "order_id": "3989QBL50GJ"
       },
       {
-        "name": "ELIZENIR VALENTIM DE ARAUJO",
-        "email": "elly.araujo@petroreconcavo.com.br",
-        "cargo": "Supervisão/Coordenação",
-        "empresa": "Petroreconcavo",
-        "natureza": "Fornece e subcontrata serviços terceirizados",
-        "perfil": "Fornecedor",
-        "ticket_name": "Ingresso individual VIP",
-        "ticket_price": 336.0,
-        "status": "Aprovado",
-        "order_id": "3989QB92UUL"
-      },
-      {
         "name": "ELOISA FERREIRA",
         "email": "eloisaferreira@consbem.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -1418,6 +1442,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBL1YFA"
+      },
+      {
+        "name": "Evandro Lucio",
+        "email": "Evandro.DeLucio@vertiv.com",
+        "cargo": "Diretoria",
+        "empresa": "Vertiv",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNR4M0"
       },
       {
         "name": "Evelim Regina Silva",
@@ -1838,6 +1874,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBL0GBV"
+      },
+      {
+        "name": "Gabriel Machado",
+        "email": "gabriel.machado@wehandle.com.br",
+        "cargo": "Analista",
+        "empresa": "wehandle",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Palestrante",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBL9HJA"
       },
       {
         "name": "GABRIEL PRATES",
@@ -2330,6 +2378,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBMECDY"
+      },
+      {
+        "name": "Jéssica dos Santos",
+        "email": "jessica.carvalho@concrejato.com.br",
+        "cargo": "Gerência",
+        "empresa": "Concrejato Engenharia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNPQ79"
       },
       {
         "name": "Jhulia Santos",
@@ -2834,6 +2894,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBMUV9J"
+      },
+      {
+        "name": "Leandro Eredia Amorim",
+        "email": "jlsaudeocupacional@gmail.com",
+        "cargo": "Diretoria",
+        "empresa": "J&L Saúde e Segurança Ocupacional",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNQ8KB"
       },
       {
         "name": "Leidiane Nogueira",
@@ -3400,18 +3472,6 @@
         "order_id": "3989QBYC2EL"
       },
       {
-        "name": "Marta Geane Oliveira De Freitas",
-        "email": "plataformas@mgo-servicos.com",
-        "cargo": "Diretoria",
-        "empresa": "MGO DE FREITAS LTDA",
-        "natureza": "Fornece e subcontrata serviços terceirizados",
-        "perfil": "Fornecedor",
-        "ticket_name": "Ingresso padrão individual",
-        "ticket_price": 0.0,
-        "status": "Aprovado",
-        "order_id": "3989QBMKVAF"
-      },
-      {
         "name": "Maryana Alves",
         "email": "maryana.alves@wehandle.com.br",
         "cargo": "Gerência",
@@ -3434,6 +3494,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLDE8E"
+      },
+      {
+        "name": "Maurício Cerrutti",
+        "email": "mauricio.cerrutti@terra.com.br",
+        "cargo": "Proprietário(a)",
+        "empresa": "Maurício Cerrutti",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNQ8KB"
       },
       {
         "name": "Mayara Lima",
@@ -3554,6 +3626,18 @@
         "ticket_price": 216.0,
         "status": "Aprovado",
         "order_id": "3989QBLVTFT"
+      },
+      {
+        "name": "Nastassja Tolentino Silva",
+        "email": "nastassja.tolentino@rcstecnologia.com.br",
+        "cargo": "Gerência",
+        "empresa": "RCS Tecnologia",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNPLJA"
       },
       {
         "name": "Natalia Marques",
@@ -3700,6 +3784,18 @@
         "order_id": "3989QBK77F0"
       },
       {
+        "name": "Pedro Lucas de Farias",
+        "email": "pedro.farias@petroreconcavo.com.br",
+        "cargo": "Analista",
+        "empresa": "Petroreconcavo",
+        "natureza": "Fornece e subcontrata serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Ingresso individual VIP",
+        "ticket_price": 336.0,
+        "status": "Aprovado",
+        "order_id": "3989QB92UUL"
+      },
+      {
         "name": "Pedro gdikian",
         "email": "gdikianpedro@gmail.com",
         "cargo": "Proprietário(a)",
@@ -3844,6 +3940,18 @@
         "order_id": "3989QBNAT0G"
       },
       {
+        "name": "Rafael Lima",
+        "email": "Rafael.lima190792@gmail.com",
+        "cargo": "Gerência",
+        "empresa": "Mapeli Engenharia",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNPQ79"
+      },
+      {
         "name": "RAFAELA OLIVEIRA DE JESUS",
         "email": "rafaela.jesus@v4company.com",
         "cargo": "Supervisão/Coordenação",
@@ -3878,6 +3986,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLG9ES"
+      },
+      {
+        "name": "Raissa Ferreira Santos",
+        "email": "ferreiraraissa05@gmail.com",
+        "cargo": "Analista",
+        "empresa": "CETREL",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNQ8KB"
       },
       {
         "name": "Raquel Hinno",
@@ -4334,6 +4454,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLLDY2"
+      },
+      {
+        "name": "Tamires Cavalcanti",
+        "email": "Tamires.Cavalcanti@vertiv.com",
+        "cargo": "Analista",
+        "empresa": "Vertiv",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNR4M0"
       },
       {
         "name": "Tamiris Dias",
