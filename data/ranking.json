@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-29T16:42:16.787068+00:00",
+  "updated_at": "2026-09-30T16:33:57.004925+00:00",
   "event_id": "3449146",
   "total_tickets": 12,
   "total_revenue": 3192.0,
   "summary": {
     "orders": {
-      "total": 254,
-      "total_revenue": 16334.0,
-      "approved": 254,
-      "approved_revenue": 16334.0,
+      "total": 259,
+      "total_revenue": 17254.0,
+      "approved": 259,
+      "approved_revenue": 17254.0,
       "pending": 0,
       "pending_revenue": 0
     },
     "tickets_by_type": [
       {
         "name": "Ingresso padrão individual",
-        "count": 203,
-        "revenue": 5689.0
+        "count": 205,
+        "revenue": 6609.0
       },
       {
         "name": "Convidado - Ingresso Padrão",
-        "count": 68,
+        "count": 70,
         "revenue": 0.0
       },
       {
@@ -35,7 +35,7 @@
       },
       {
         "name": "Staff",
-        "count": 26,
+        "count": 27,
         "revenue": 0.0
       },
       {
@@ -772,6 +772,18 @@
         "order_id": "3989QBMUV9J"
       },
       {
+        "name": "Camile Tucan",
+        "email": "camile.tucan@comgas.com.br",
+        "cargo": "Analista",
+        "empresa": "Comgas",
+        "natureza": "Fornece serviços terceirizados",
+        "perfil": "Fornecedor",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBZ1SCF"
+      },
+      {
         "name": "Carina Miyamoto",
         "email": "carina.miyamoto@abimed.org.br",
         "cargo": "Gerência",
@@ -1252,22 +1264,10 @@
         "order_id": "3989QBLFAH0"
       },
       {
-        "name": "Dilcea Brandao",
-        "email": "dilcea.brandao@telefonica.com",
-        "cargo": "Outro",
-        "empresa": "Telefonica",
-        "natureza": "Contrata serviços terceirizados",
-        "perfil": "Tomador",
-        "ticket_name": "Ingresso padrão antecipado individual",
-        "ticket_price": 260.0,
-        "status": "Aprovado",
-        "order_id": "3989QB1QNML"
-      },
-      {
         "name": "DIOGO QUARESMA RODRIGUEZ",
         "email": "diogo@dqr3consultoria.com",
         "cargo": "Proprietário(a)",
-        "empresa": "DQR3 Consultoria",
+        "empresa": "GL events",
         "natureza": "Fornece e subcontrata serviços terceirizados",
         "perfil": "Fornecedor",
         "ticket_name": "Ingresso VIP antecipado individual",
@@ -1382,6 +1382,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBNAR8D"
+      },
+      {
+        "name": "Eduardo Cordova",
+        "email": "lohaine.taise@wehandle.com.br",
+        "cargo": "",
+        "empresa": "PROTHERA",
+        "natureza": "",
+        "perfil": "Outro",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 460.0,
+        "status": "Aprovado",
+        "order_id": "3989QBZ5Z31"
       },
       {
         "name": "Elder Macedo",
@@ -3112,6 +3124,18 @@
         "order_id": "3989QBKY5NA"
       },
       {
+        "name": "Leonardo Fontana",
+        "email": "lohaine.taise@wehandle.com.br",
+        "cargo": "",
+        "empresa": "PROTHERA",
+        "natureza": "",
+        "perfil": "Outro",
+        "ticket_name": "Ingresso padrão individual",
+        "ticket_price": 460.0,
+        "status": "Aprovado",
+        "order_id": "3989QBZ5L1C"
+      },
+      {
         "name": "Leticia Méo",
         "email": "leticia@leticiameo.com.br",
         "cargo": "Proprietário(a)",
@@ -3268,6 +3292,18 @@
         "order_id": "3989QBMY9RE"
       },
       {
+        "name": "LUCAS CARVALHO",
+        "email": "lucas.carvalho@wehandle.com.br",
+        "cargo": "Gerência",
+        "empresa": "wehandle",
+        "natureza": "",
+        "perfil": "Outro",
+        "ticket_name": "Staff",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBZ5191"
+      },
+      {
         "name": "LUCAS DA CRUZ MARQUES",
         "email": "lucas.marques@cmr4augustovelloso.com.br",
         "cargo": "Supervisão/Coordenação",
@@ -3290,6 +3326,18 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBLLDY2"
+      },
+      {
+        "name": "Luciano Vagner",
+        "email": "luciano.cruz@klabin.com.br",
+        "cargo": "Analista",
+        "empresa": "Klabin",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Convidado - Ingresso Padrão",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBZ1T85"
       },
       {
         "name": "Luckas Reis",
@@ -3904,6 +3952,18 @@
         "order_id": "3989QBMPNQ7"
       },
       {
+        "name": "PAMELA MARIN MARSARE",
+        "email": "Pamela.marsare@telefonica.com",
+        "cargo": "Analista",
+        "empresa": "Telefonica",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão antecipado individual",
+        "ticket_price": 260.0,
+        "status": "Aprovado",
+        "order_id": "3989QB1QNML"
+      },
+      {
         "name": "Patricia Barbarini",
         "email": "patricia.barbarini@g.globo",
         "cargo": "Gerência",
@@ -4156,8 +4216,20 @@
         "order_id": "3989QBNAT0G"
       },
       {
+        "name": "Rafael Rodrigues",
+        "email": "Rafael.lobianco@tegma.com.br",
+        "cargo": "Outro",
+        "empresa": "Tegma Gestão Logistica S/A",
+        "natureza": "Contrata serviços terceirizados",
+        "perfil": "Tomador",
+        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
+        "ticket_price": 0.0,
+        "status": "Aprovado",
+        "order_id": "3989QBNC5VD"
+      },
+      {
         "name": "Rafael Lima",
-        "email": "Rafael.lima190792@gmail.com",
+        "email": "Rafael.lima190782@gmail.com",
         "cargo": "Gerência",
         "empresa": "Mapeli Engenharia",
         "natureza": "Contrata serviços terceirizados",
@@ -4718,18 +4790,6 @@
         "ticket_price": 0.0,
         "status": "Aprovado",
         "order_id": "3989QBKA3YB"
-      },
-      {
-        "name": "Tarcisio Felisardo",
-        "email": "tarcisio.felisardo@tegma.com.br",
-        "cargo": "Diretoria",
-        "empresa": "Tegma Gestão Logistica S/A",
-        "natureza": "Contrata serviços terceirizados",
-        "perfil": "Tomador",
-        "ticket_name": "Ingresso padrão para grupos (5 ou mais)",
-        "ticket_price": 0.0,
-        "status": "Aprovado",
-        "order_id": "3989QBNC5VD"
       },
       {
         "name": "TATHIANA SANDE",
